@@ -1,0 +1,4094 @@
+{
+    "autoplayBgm": false,
+    "autoplayBgs": false,
+    "battleback1Name": "",
+    "battleback2Name": "",
+    "bgm": {
+        "name": "",
+        "pan": 0,
+        "pitch": 100,
+        "volume": 90
+    },
+    "bgs": {
+        "name": "",
+        "pan": 0,
+        "pitch": 100,
+        "volume": 90
+    },
+    "disableDashing": false,
+    "displayName": "",
+    "encounterList": [],
+    "encounterStep": 30,
+    "height": 13,
+    "note": "",
+    "parallaxLoopX": false,
+    "parallaxLoopY": false,
+    "parallaxName": "",
+    "parallaxShow": true,
+    "parallaxSx": 0,
+    "parallaxSy": 0,
+    "scrollType": 0,
+    "specifyBattleback": false,
+    "tilesetId": 11,
+    "width": 17,
+    "data": [
+        6660,
+        6684,
+        6684,
+        6684,
+        6684,
+        6684,
+        6684,
+        6668,
+        6684,
+        6684,
+        6684,
+        6684,
+        6684,
+        6664,
+        6656,
+        6656,
+        6656,
+        6680,
+        7042,
+        7042,
+        7042,
+        7042,
+        7042,
+        7042,
+        6688,
+        7042,
+        7042,
+        7042,
+        7042,
+        7042,
+        6672,
+        6656,
+        6656,
+        6656,
+        6680,
+        7048,
+        7048,
+        7048,
+        7048,
+        7048,
+        7048,
+        6688,
+        7048,
+        7048,
+        7048,
+        7048,
+        7048,
+        6674,
+        6684,
+        6684,
+        6664,
+        6680,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        6688,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        6688,
+        7042,
+        7042,
+        6672,
+        6680,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        6688,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        6688,
+        7048,
+        7048,
+        6672,
+        6686,
+        6689,
+        6689,
+        6701,
+        1552,
+        1552,
+        1552,
+        6688,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        6688,
+        1557,
+        1557,
+        6672,
+        7043,
+        7042,
+        7042,
+        7046,
+        1552,
+        6699,
+        6689,
+        6687,
+        6689,
+        6701,
+        1552,
+        6699,
+        6689,
+        6695,
+        1557,
+        1557,
+        6672,
+        7049,
+        7048,
+        7048,
+        7052,
+        1552,
+        7043,
+        7042,
+        7042,
+        7042,
+        7046,
+        1552,
+        7043,
+        7042,
+        7046,
+        1557,
+        1557,
+        6672,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        7049,
+        7048,
+        7048,
+        7048,
+        7052,
+        1552,
+        7049,
+        7048,
+        7052,
+        1557,
+        1557,
+        6672,
+        6692,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1557,
+        1557,
+        6672,
+        6680,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        6690,
+        6676,
+        6676,
+        6657,
+        6680,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        6672,
+        6656,
+        6656,
+        6656,
+        6658,
+        6676,
+        6676,
+        6676,
+        6676,
+        6676,
+        6676,
+        6676,
+        6676,
+        6676,
+        6676,
+        6676,
+        6676,
+        6657,
+        6656,
+        6656,
+        6656,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        675,
+        0,
+        0,
+        0,
+        0,
+        0,
+        675,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        667,
+        0,
+        0,
+        0,
+        0,
+        0,
+        667,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        43,
+        643,
+        0,
+        26,
+        60,
+        61,
+        0,
+        60,
+        61,
+        26,
+        643,
+        43,
+        0,
+        0,
+        0,
+        0,
+        0,
+        51,
+        651,
+        0,
+        34,
+        68,
+        69,
+        0,
+        68,
+        69,
+        34,
+        651,
+        51,
+        0,
+        123,
+        0,
+        0,
+        0,
+        0,
+        659,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        659,
+        0,
+        0,
+        116,
+        118,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        124,
+        126,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        131,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        560,
+        561,
+        0,
+        0,
+        0,
+        0,
+        0,
+        139,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        683,
+        568,
+        569,
+        0,
+        0,
+        0,
+        0,
+        0,
+        147,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        691,
+        576,
+        577,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "events": [
+        null,
+        {
+            "id": 1,
+            "name": "EV001",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "emo2",
+                        "direction": 4,
+                        "pattern": 1,
+                        "characterIndex": 3
+                    },
+                    "list": [
+                        {
+                            "code": 201,
+                            "indent": 0,
+                            "parameters": [
+                                0,
+                                39,
+                                15,
+                                6,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": true,
+                    "through": false,
+                    "trigger": 1,
+                    "walkAnime": true
+                }
+            ],
+            "x": 0,
+            "y": 8
+        },
+        null,
+        {
+            "id": 3,
+            "name": "akane H 01",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "",
+                        "direction": 2,
+                        "pattern": 1,
+                        "characterIndex": 1
+                    },
+                    "list": [
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                18,
+                                18,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Akane's bed..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "No, what are you thinking?"
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                18,
+                                18,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": true,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 11,
+            "y": 3
+        },
+        {
+            "id": 4,
+            "name": "EV004",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "characterIndex": 0,
+                        "characterName": "",
+                        "direction": 2,
+                        "pattern": 0,
+                        "tileId": 0
+                    },
+                    "list": [
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                18,
+                                18,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Indoor plant pot."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I'm not sure what kind of plant it is."
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                18,
+                                18,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 7,
+            "y": 9
+        },
+        {
+            "id": 5,
+            "name": "EV005",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "characterIndex": 0,
+                        "characterName": "",
+                        "direction": 2,
+                        "pattern": 0,
+                        "tileId": 0
+                    },
+                    "list": [
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                18,
+                                18,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Old-fashioned storage room."
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                18,
+                                18,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 8,
+            "y": 8
+        },
+        {
+            "id": 6,
+            "name": "EV006",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "characterIndex": 0,
+                        "characterName": "",
+                        "direction": 2,
+                        "pattern": 0,
+                        "tileId": 0
+                    },
+                    "list": [
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                18,
+                                18,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Old-fashioned storage room."
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                18,
+                                18,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 9,
+            "y": 8
+        },
+        {
+            "id": 7,
+            "name": "EV007",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "characterIndex": 0,
+                        "characterName": "",
+                        "direction": 2,
+                        "pattern": 0,
+                        "tileId": 0
+                    },
+                    "list": [
+                        {
+                            "code": 111,
+                            "indent": 0,
+                            "parameters": [
+                                6,
+                                -1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 1,
+                            "parameters": [
+                                18,
+                                18,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Shower head with water falling from above."
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 1,
+                            "parameters": [
+                                18,
+                                18,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 15,
+            "y": 7
+        },
+        {
+            "id": 8,
+            "name": "EV008",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "characterIndex": 0,
+                        "characterName": "",
+                        "direction": 2,
+                        "pattern": 0,
+                        "tileId": 0
+                    },
+                    "list": [
+                        {
+                            "code": 111,
+                            "indent": 0,
+                            "parameters": [
+                                6,
+                                -1,
+                                8
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 1,
+                            "parameters": [
+                                18,
+                                18,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Shower head with water falling from above."
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 1,
+                            "parameters": [
+                                18,
+                                18,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 15,
+            "y": 8
+        },
+        {
+            "id": 9,
+            "name": "EV009",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "characterIndex": 0,
+                        "characterName": "",
+                        "direction": 2,
+                        "pattern": 0,
+                        "tileId": 0
+                    },
+                    "list": [
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                18,
+                                18,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "There is lipstick near the mirror."
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                18,
+                                18,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 15,
+            "y": 4
+        },
+        {
+            "id": 10,
+            "name": "EV010",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "characterIndex": 0,
+                        "characterName": "",
+                        "direction": 2,
+                        "pattern": 0,
+                        "tileId": 0
+                    },
+                    "list": [
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                18,
+                                18,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Let's stop using the women's restroom."
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                18,
+                                18,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 14,
+            "y": 4
+        },
+        {
+            "id": 11,
+            "name": "EV011",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "characterIndex": 0,
+                        "characterName": "",
+                        "direction": 2,
+                        "pattern": 0,
+                        "tileId": 0
+                    },
+                    "list": [
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                18,
+                                18,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Commonly seen light bulbs and tables."
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                18,
+                                18,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 1,
+            "y": 2
+        },
+        {
+            "id": 12,
+            "name": "EV012",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "characterIndex": 0,
+                        "characterName": "",
+                        "direction": 2,
+                        "pattern": 0,
+                        "tileId": 0
+                    },
+                    "list": [
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                18,
+                                18,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Commonly seen light bulbs and tables."
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                18,
+                                18,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 12,
+            "y": 2
+        },
+        {
+            "id": 13,
+            "name": "EV013",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "characterIndex": 0,
+                        "characterName": "",
+                        "direction": 2,
+                        "pattern": 0,
+                        "tileId": 0
+                    },
+                    "list": [
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                18,
+                                18,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Normal table."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Nothing is placed."
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                18,
+                                18,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 4,
+            "y": 2
+        },
+        {
+            "id": 14,
+            "name": "EV014",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "characterIndex": 0,
+                        "characterName": "",
+                        "direction": 2,
+                        "pattern": 0,
+                        "tileId": 0
+                    },
+                    "list": [
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                18,
+                                18,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Normal table."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Nothing is placed."
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                18,
+                                18,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 10,
+            "y": 2
+        },
+        {
+            "id": 15,
+            "name": "EV015",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "characterIndex": 0,
+                        "characterName": "",
+                        "direction": 2,
+                        "pattern": 0,
+                        "tileId": 0
+                    },
+                    "list": [
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                18,
+                                18,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Renka's bed..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "No, what are you thinking?"
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                18,
+                                18,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 2,
+            "y": 3
+        },
+        {
+            "id": 16,
+            "name": "EV016",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "characterIndex": 0,
+                        "characterName": "",
+                        "direction": 2,
+                        "pattern": 0,
+                        "tileId": 0
+                    },
+                    "list": [
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                18,
+                                18,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Renka's closet."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I smell the sweet scent of herbs."
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                18,
+                                18,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 5,
+            "y": 2
+        },
+        {
+            "id": 17,
+            "name": "EV017",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "characterIndex": 0,
+                        "characterName": "",
+                        "direction": 2,
+                        "pattern": 0,
+                        "tileId": 0
+                    },
+                    "list": [
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                18,
+                                18,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Renka's closet."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I smell the sweet scent of herbs."
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                18,
+                                18,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 6,
+            "y": 2
+        },
+        {
+            "id": 18,
+            "name": "EV018",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "characterIndex": 0,
+                        "characterName": "",
+                        "direction": 2,
+                        "pattern": 0,
+                        "tileId": 0
+                    },
+                    "list": [
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                18,
+                                18,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Akane's closet."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "They smell refreshing mint."
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                18,
+                                18,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 8,
+            "y": 2
+        },
+        {
+            "id": 19,
+            "name": "EV019",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "characterIndex": 0,
+                        "characterName": "",
+                        "direction": 2,
+                        "pattern": 0,
+                        "tileId": 0
+                    },
+                    "list": [
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                18,
+                                18,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Akane's closet."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "They smell refreshing mint."
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                18,
+                                18,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 9,
+            "y": 2
+        },
+        {
+            "id": 20,
+            "name": "renka (room)",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "char chip",
+                        "direction": 2,
+                        "pattern": 1,
+                        "characterIndex": 1
+                    },
+                    "list": [
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                18,
+                                18,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                "renka (1)",
+                                0,
+                                0,
+                                250,
+                                100,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Renka"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Oh, Hikaru senpai."
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                "renka (3)",
+                                0,
+                                0,
+                                250,
+                                100,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Renka"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Good day."
+                            ]
+                        },
+                        {
+                            "code": 235,
+                            "indent": 0,
+                            "parameters": [
+                                1
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                18,
+                                18,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                },
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 86,
+                        "switch1Valid": true,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "char chip",
+                        "direction": 2,
+                        "pattern": 1,
+                        "characterIndex": 1
+                    },
+                    "list": [
+                        {
+                            "code": 243,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                18,
+                                18,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 241,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "name": "004. Daydream (renka)",
+                                    "volume": 90,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                "renka (10)",
+                                0,
+                                0,
+                                250,
+                                100,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Renka"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "(Smiling)"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Hikaru"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Oh... good morning?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Renka"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Hehe, did you use it?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Hikaru"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "What, what do you mean?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Hikaru"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "U-um, I really don't understand at all."
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                "renka (11)",
+                                0,
+                                0,
+                                250,
+                                100,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Renka"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Hmm..."
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                "renka (10)",
+                                0,
+                                0,
+                                250,
+                                100,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Renka"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Well, it's fine."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Renka"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "It would be faster to experience it directly with your\nbody."
+                            ]
+                        },
+                        {
+                            "code": 234,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                [
+                                    -68,
+                                    -68,
+                                    -68,
+                                    0
+                                ],
+                                1,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I thought I was caught, but maybe it was about something\nelse."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "No, it wasn't even my mistake. When I woke up, the only\nthing in my hand was my underwear."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "...It looks like my mistake to anyone who sees it... It's\nfrustrating."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I really don't understand what you're saying at all..."
+                            ]
+                        },
+                        {
+                            "code": 234,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                [
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ],
+                                1,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                "renka (7)",
+                                0,
+                                0,
+                                250,
+                                100,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Renka"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "(Smiling)"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Renka"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "You have to return everything to the others as well."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Hikaru"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I-It's not my fault, is it?!"
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                "renka (9)",
+                                0,
+                                0,
+                                250,
+                                100,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Renka"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Yes, yes. I understand."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Hikaru"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "(It seems like you don't understand at all...!)"
+                            ]
+                        },
+                        {
+                            "code": 235,
+                            "indent": 0,
+                            "parameters": [
+                                1
+                            ]
+                        },
+                        {
+                            "code": 123,
+                            "indent": 0,
+                            "parameters": [
+                                "A",
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                18,
+                                18,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 244,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                },
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": true,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "char chip",
+                        "direction": 2,
+                        "pattern": 1,
+                        "characterIndex": 1
+                    },
+                    "list": [
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                18,
+                                18,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                "renka (7)",
+                                0,
+                                0,
+                                250,
+                                100,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Renka"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "It's a nice island."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Renka"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Senpai, you think so too, right?"
+                            ]
+                        },
+                        {
+                            "code": 235,
+                            "indent": 0,
+                            "parameters": [
+                                1
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                18,
+                                18,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 5,
+            "y": 4
+        }
+    ]
+}

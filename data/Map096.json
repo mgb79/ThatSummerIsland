@@ -1,0 +1,3797 @@
+{
+    "autoplayBgm": true,
+    "autoplayBgs": false,
+    "battleback1Name": "",
+    "battleback2Name": "",
+    "bgm": {
+        "name": "019. NEKOZOU - Chill time (H)",
+        "pan": 0,
+        "pitch": 100,
+        "volume": 90
+    },
+    "bgs": {
+        "name": "",
+        "pan": 0,
+        "pitch": 100,
+        "volume": 90
+    },
+    "disableDashing": false,
+    "displayName": "",
+    "encounterList": [],
+    "encounterStep": 30,
+    "height": 13,
+    "note": "",
+    "parallaxLoopX": false,
+    "parallaxLoopY": false,
+    "parallaxName": "",
+    "parallaxShow": true,
+    "parallaxSx": 0,
+    "parallaxSy": 0,
+    "scrollType": 0,
+    "specifyBattleback": false,
+    "tilesetId": 11,
+    "width": 17,
+    "data": [
+        6656,
+        6656,
+        6656,
+        6660,
+        6684,
+        6684,
+        6684,
+        6684,
+        6684,
+        6668,
+        6684,
+        6684,
+        6684,
+        6684,
+        6684,
+        6684,
+        6664,
+        6656,
+        6656,
+        6656,
+        6680,
+        7042,
+        7042,
+        7042,
+        7042,
+        7042,
+        6688,
+        7042,
+        7042,
+        7042,
+        7042,
+        7042,
+        7042,
+        6672,
+        6660,
+        6684,
+        6684,
+        6681,
+        7048,
+        7048,
+        7048,
+        7048,
+        7048,
+        6688,
+        7048,
+        7048,
+        7048,
+        7048,
+        7048,
+        7048,
+        6672,
+        6680,
+        7042,
+        7042,
+        6688,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        6688,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        6672,
+        6680,
+        7048,
+        7048,
+        6688,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        6688,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        6672,
+        6680,
+        1557,
+        1557,
+        6688,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        6688,
+        1552,
+        1552,
+        1552,
+        6699,
+        6689,
+        6689,
+        6685,
+        6680,
+        1557,
+        1557,
+        6697,
+        6689,
+        6701,
+        1552,
+        6699,
+        6689,
+        6687,
+        6689,
+        6701,
+        1552,
+        7043,
+        7042,
+        7042,
+        7046,
+        6680,
+        1557,
+        1557,
+        7043,
+        7042,
+        7046,
+        1552,
+        7043,
+        7042,
+        7042,
+        7042,
+        7046,
+        1552,
+        7049,
+        7048,
+        7048,
+        7052,
+        6680,
+        1557,
+        1557,
+        7049,
+        7048,
+        7052,
+        1552,
+        7049,
+        7048,
+        7048,
+        7048,
+        7052,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        6680,
+        1557,
+        1557,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        6690,
+        6658,
+        6676,
+        6676,
+        6692,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        6672,
+        6656,
+        6656,
+        6656,
+        6680,
+        1552,
+        1552,
+        1552,
+        1552,
+        1550,
+        1550,
+        1550,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        6672,
+        6684,
+        6684,
+        6684,
+        6686,
+        6689,
+        6689,
+        6689,
+        6689,
+        6701,
+        1550,
+        6699,
+        6689,
+        6689,
+        6689,
+        6689,
+        6689,
+        6685,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        675,
+        0,
+        0,
+        0,
+        0,
+        0,
+        675,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        117,
+        133,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        125,
+        141,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        667,
+        0,
+        0,
+        0,
+        0,
+        0,
+        667,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        43,
+        643,
+        26,
+        60,
+        61,
+        0,
+        60,
+        61,
+        26,
+        0,
+        643,
+        43,
+        0,
+        0,
+        0,
+        123,
+        0,
+        51,
+        651,
+        34,
+        68,
+        69,
+        0,
+        68,
+        69,
+        34,
+        0,
+        651,
+        51,
+        0,
+        0,
+        118,
+        116,
+        0,
+        0,
+        659,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        659,
+        0,
+        0,
+        0,
+        126,
+        124,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        131,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        139,
+        0,
+        0,
+        0,
+        0,
+        0,
+        560,
+        561,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        147,
+        0,
+        0,
+        0,
+        0,
+        0,
+        568,
+        569,
+        680,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        576,
+        577,
+        688,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "events": [
+        null,
+        {
+            "id": 1,
+            "name": "EV001",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "characterIndex": 0,
+                        "characterName": "",
+                        "direction": 2,
+                        "pattern": 0,
+                        "tileId": 0
+                    },
+                    "list": [
+                        {
+                            "code": 201,
+                            "indent": 0,
+                            "parameters": [
+                                0,
+                                39,
+                                1,
+                                6,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 1,
+                    "walkAnime": true
+                }
+            ],
+            "x": 16,
+            "y": 8
+        },
+        {
+            "id": 2,
+            "name": "EV002",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "characterIndex": 0,
+                        "characterName": "",
+                        "direction": 2,
+                        "pattern": 0,
+                        "tileId": 0
+                    },
+                    "list": [
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "When you come out here, it's a small terrace."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I don't have any business here."
+                            ]
+                        },
+                        {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [
+                                -1,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 4,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 4,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 1,
+                    "walkAnime": true
+                }
+            ],
+            "x": 9,
+            "y": 12
+        },
+        null,
+        {
+            "id": 4,
+            "name": "tsugumi",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "char chip",
+                        "direction": 6,
+                        "pattern": 1,
+                        "characterIndex": 2
+                    },
+                    "list": [
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                18,
+                                18,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Tsugumi"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Don't play dumb, please wake up quickly. It's already\nmorning."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Tsugumi herself seems to have just woken up, so she started\npicking up the clothes scattered on the hill and began\nto put them on."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "That figure overlaps with the tsundere girl I saw in my\ndream earlier."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "......Hmm,"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Hmm..."
+                            ]
+                        },
+                        {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [
+                                4,
+                                1,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Tsugumi"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Kyaa, Hikaru!?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I hugged her standing next to the bed and pulled her\ninto the bed."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Tsugumi"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Geez!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Tsugumi"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "What are you doing?!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Hikaru"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Tsugumi, let's do it."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Tsugumi"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Huh...! Isn't it already morning? The sun has already greeted\nus, you know?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Tsugumi"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Please calm down a little."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Hikaru"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "No, I can't hold back."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Tsugumi"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Hey...! Stop, ugh...! Nooo!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 123,
+                            "indent": 0,
+                            "parameters": [
+                                "A",
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 3,
+                    "walkAnime": true
+                },
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": true,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "char chip (hadaka)",
+                        "direction": 6,
+                        "pattern": 1,
+                        "characterIndex": 2
+                    },
+                    "list": [
+                        {
+                            "code": 250,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "name": "Equip2",
+                                    "volume": 90,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                "tsugumi_ha (4)",
+                                0,
+                                0,
+                                250,
+                                100,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "She starts to loosen the strength in her legs as if to\naccept me, even though she says she doesn't want it\nwith her mouth."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I gently stroke her head while pressing my stomach\nagainst the spacious gap between her legs."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "It was as if they were a well-trained cat."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "The expression of looking up at me with a tsundere face,\nand the way she speaks selfishly, is just adorable.\nWhile giving her little pecks on the cheek and lips, I\nstart teasing her whole body."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                "tsugumi_ha (8)",
+                                0,
+                                0,
+                                250,
+                                100,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Tsugumi"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Mmm..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Tsugumi shyly averts their eyes, but they couldn't hide the\nlewd voice that escapes from their mouth."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                "tsugumi_ha (6)",
+                                0,
+                                0,
+                                250,
+                                100,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Tsugumi"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Hauu... Hikaru..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "After enjoying the sweet scent of their body for a while, I\nteased their body, and before I knew it, their slightly\nmoist eyes caught my attention."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Hikaru"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "What's wrong? It's already morning, so should we stop for\ntoday?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                "tsugumi_ha (7)",
+                                0,
+                                0,
+                                250,
+                                100,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Tsugumi"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Hmph... You're so mean, Hikaru..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Hikaru"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I won't understand unless you say it clearly."
+                            ]
+                        },
+                        {
+                            "code": 118,
+                            "indent": 0,
+                            "parameters": [
+                                "01"
+                            ]
+                        },
+                        {
+                            "code": 357,
+                            "indent": 0,
+                            "parameters": [
+                                "MoviePicture",
+                                "PREPARE",
+                                "ピクチャ動画準備",
+                                {
+                                    "fileName": "tsugumi_004 a (loop)",
+                                    "loop": "true",
+                                    "smooth": "false",
+                                    "volume": "100",
+                                    "reload": "false",
+                                    "autoplay": "true",
+                                    "finishSwitch": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "ファイル名 = tsugumi_004 a (loop)"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "ループ = true"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "なめらか表示 = false"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "音量 = 100"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "再読み込み = false"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "自動再生 = true"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "再生終了スイッチ = 0"
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                "",
+                                1,
+                                0,
+                                408,
+                                260,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 357,
+                            "indent": 0,
+                            "parameters": [
+                                "MoviePicture",
+                                "PLAY",
+                                "再生",
+                                {
+                                    "pictureId": "1"
+                                }
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "ピクチャ番号 = 1"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Tsugumi"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "...Please put it in."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Her body had already become hot and dyed a peach color."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Tsugumi, who faces their butt towards me, spreads their legs\nand shows me their private parts."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 245,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "name": "ノーマルピストン",
+                                    "volume": 90,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "My thing starts moving with a rubbing motion on her slit,\nwhere juice is leaking from her secret part."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Tsugumi"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Huh...!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I feel Tsugumi's body getting even hotter."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Even though it hasn't been much time since she lost her\nvirginity, she is clearly recognizing it as pleasure."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I see a face that looks like they're desperately trying\nto endure the overwhelming pleasure."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "So, I push my clone deeper into the fruit in front of me,\ngreedily devouring it."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 118,
+                            "indent": 0,
+                            "parameters": [
+                                "02"
+                            ]
+                        },
+                        {
+                            "code": 357,
+                            "indent": 0,
+                            "parameters": [
+                                "MoviePicture",
+                                "PREPARE",
+                                "ピクチャ動画準備",
+                                {
+                                    "fileName": "tsugumi_004 b (loop)",
+                                    "loop": "true",
+                                    "smooth": "false",
+                                    "volume": "100",
+                                    "reload": "false",
+                                    "autoplay": "true",
+                                    "finishSwitch": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "ファイル名 = tsugumi_004 b (loop)"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "ループ = true"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "なめらか表示 = false"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "音量 = 100"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "再読み込み = false"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "自動再生 = true"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "再生終了スイッチ = 0"
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 0,
+                            "parameters": [
+                                2,
+                                "",
+                                1,
+                                0,
+                                408,
+                                260,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 357,
+                            "indent": 0,
+                            "parameters": [
+                                "MoviePicture",
+                                "PLAY",
+                                "再生",
+                                {
+                                    "pictureId": "2"
+                                }
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "ピクチャ番号 = 2"
+                            ]
+                        },
+                        {
+                            "code": 245,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "name": "ノーマルピストン２",
+                                    "volume": 90,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "But from that moment, the initiative was handed over to\nTsugumi from me."
+                            ]
+                        },
+                        {
+                            "code": 235,
+                            "indent": 0,
+                            "parameters": [
+                                1
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Her insides were the complete opposite of her cold\nappearance, so hot that it felt like my reason was\nabout to be blown away."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Tsugumi"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Mmm... more... harder... ah... please..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 118,
+                            "indent": 0,
+                            "parameters": [
+                                "03"
+                            ]
+                        },
+                        {
+                            "code": 357,
+                            "indent": 0,
+                            "parameters": [
+                                "MoviePicture",
+                                "PREPARE",
+                                "ピクチャ動画準備",
+                                {
+                                    "fileName": "tsugumi_004 c (loop)",
+                                    "loop": "true",
+                                    "smooth": "false",
+                                    "volume": "100",
+                                    "reload": "false",
+                                    "autoplay": "true",
+                                    "finishSwitch": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "ファイル名 = tsugumi_004 c (loop)"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "ループ = true"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "なめらか表示 = false"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "音量 = 100"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "再読み込み = false"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "自動再生 = true"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "再生終了スイッチ = 0"
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 0,
+                            "parameters": [
+                                3,
+                                "",
+                                1,
+                                0,
+                                408,
+                                260,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 357,
+                            "indent": 0,
+                            "parameters": [
+                                "MoviePicture",
+                                "PLAY",
+                                "再生",
+                                {
+                                    "pictureId": "3"
+                                }
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "ピクチャ番号 = 3"
+                            ]
+                        },
+                        {
+                            "code": 245,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "name": "ハイピストン",
+                                    "volume": 90,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Tsugumi"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Ah... I... I like it... more... harder...!"
+                            ]
+                        },
+                        {
+                            "code": 235,
+                            "indent": 0,
+                            "parameters": [
+                                2
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Tsugumi's pussy didn't easily let go of the foreign object that\nentered it."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "The stimulation from being tightly squeezed by the meat\nrod with incredible force gives a strong pleasure that\ncan lead to ejaculation even without movement."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "After taking a slow deep breath, they start to put strength\ninto their hips."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "The sound of their two bodies colliding strongly echoes\nthroughout the room, pan! pan!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "As the sound of water from their secret place grows\nlouder, Tsugumi's voice becomes increasingly wet."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Tsugumi is really spoiled at times like this."
+                            ]
+                        },
+                        {
+                            "code": 245,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "name": "ハイピストンブースト",
+                                    "volume": 90,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Tsugumi"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Hikaru... n, ah... Hikaru... ♡"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Hikaru"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Yeah, I'm here."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Tsugumi"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Kiss me, please...♡"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "They didn't stop the movement of their piston and brought\ntheir upper body closer, tightly gripping Tsugumi's\nchin."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "A kiss of love that continues for a while."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "The arch of saliva dripped down from their parted lips as\nthey took a breath."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Tsugumi"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I love you...! I really love you, Hikaru...!"
+                            ]
+                        },
+                        {
+                            "code": 118,
+                            "indent": 0,
+                            "parameters": [
+                                "04"
+                            ]
+                        },
+                        {
+                            "code": 357,
+                            "indent": 0,
+                            "parameters": [
+                                "MoviePicture",
+                                "PREPARE",
+                                "ピクチャ動画準備",
+                                {
+                                    "fileName": "tsugumi_004 d",
+                                    "loop": "false",
+                                    "smooth": "false",
+                                    "volume": "100",
+                                    "reload": "false",
+                                    "autoplay": "true",
+                                    "finishSwitch": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "ファイル名 = tsugumi_004 d"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "ループ = false"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "なめらか表示 = false"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "音量 = 100"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "再読み込み = false"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "自動再生 = true"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "再生終了スイッチ = 0"
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 0,
+                            "parameters": [
+                                4,
+                                "",
+                                1,
+                                0,
+                                408,
+                                260,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 357,
+                            "indent": 0,
+                            "parameters": [
+                                "MoviePicture",
+                                "PLAY",
+                                "再生",
+                                {
+                                    "pictureId": "4"
+                                }
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "ピクチャ番号 = 4"
+                            ]
+                        },
+                        {
+                            "code": 230,
+                            "indent": 0,
+                            "parameters": [
+                                10
+                            ]
+                        },
+                        {
+                            "code": 235,
+                            "indent": 0,
+                            "parameters": [
+                                3
+                            ]
+                        },
+                        {
+                            "code": 230,
+                            "indent": 0,
+                            "parameters": [
+                                310
+                            ]
+                        },
+                        {
+                            "code": 245,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "name": "",
+                                    "volume": 90,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        },
+                        {
+                            "code": 224,
+                            "indent": 0,
+                            "parameters": [
+                                [
+                                    255,
+                                    255,
+                                    255,
+                                    170
+                                ],
+                                30,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 250,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "name": "射精音2",
+                                    "volume": 90,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        },
+                        {
+                            "code": 230,
+                            "indent": 0,
+                            "parameters": [
+                                80
+                            ]
+                        },
+                        {
+                            "code": 224,
+                            "indent": 0,
+                            "parameters": [
+                                [
+                                    255,
+                                    255,
+                                    255,
+                                    170
+                                ],
+                                30,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 250,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "name": "射精音3",
+                                    "volume": 90,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        },
+                        {
+                            "code": 230,
+                            "indent": 0,
+                            "parameters": [
+                                30
+                            ]
+                        },
+                        {
+                            "code": 224,
+                            "indent": 0,
+                            "parameters": [
+                                [
+                                    255,
+                                    255,
+                                    255,
+                                    170
+                                ],
+                                30,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 250,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "name": "射精音3",
+                                    "volume": 90,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Dobyu, byururu, byuruh!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "At that moment, there was a sudden sound of something\nsnapping,"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Hikaru ejaculated with the force of impregnating while\ninserting his penis deep inside her."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "After that, they exchanged a short kiss while confirming\ntheir love with their eyes."
+                            ]
+                        },
+                        {
+                            "code": 118,
+                            "indent": 0,
+                            "parameters": [
+                                "05"
+                            ]
+                        },
+                        {
+                            "code": 357,
+                            "indent": 0,
+                            "parameters": [
+                                "MoviePicture",
+                                "PREPARE",
+                                "ピクチャ動画準備",
+                                {
+                                    "fileName": "tsugumi_004 e (loop)",
+                                    "loop": "false",
+                                    "smooth": "false",
+                                    "volume": "100",
+                                    "reload": "false",
+                                    "autoplay": "true",
+                                    "finishSwitch": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "ファイル名 = tsugumi_004 e (loop)"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "ループ = false"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "なめらか表示 = false"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "音量 = 100"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "再読み込み = false"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "自動再生 = true"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "再生終了スイッチ = 0"
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 0,
+                            "parameters": [
+                                5,
+                                "",
+                                1,
+                                0,
+                                408,
+                                260,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 357,
+                            "indent": 0,
+                            "parameters": [
+                                "MoviePicture",
+                                "PLAY",
+                                "再生",
+                                {
+                                    "pictureId": "5"
+                                }
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "ピクチャ番号 = 5"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Tsugumi"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "You came a lot... hehe. You're energetic since morning,\nHikaru."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 235,
+                            "indent": 0,
+                            "parameters": [
+                                4
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Tsugumi, who had taken all of Hikaru inside, began to stroke\ntheir skin with a look of happiness."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I felt my lower body tense up again as I watched their\nfigure."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "It seems that today's schedule will all be postponed\nuntil tomorrow."
+                            ]
+                        },
+                        {
+                            "code": 235,
+                            "indent": 0,
+                            "parameters": [
+                                5
+                            ]
+                        },
+                        {
+                            "code": 123,
+                            "indent": 0,
+                            "parameters": [
+                                "A",
+                                1
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                18,
+                                18,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 201,
+                            "indent": 0,
+                            "parameters": [
+                                0,
+                                69,
+                                12,
+                                6,
+                                2,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 3,
+                    "walkAnime": true
+                }
+            ],
+            "x": 13,
+            "y": 3
+        }
+    ]
+}

@@ -1,0 +1,2048 @@
+[
+    null,
+    {
+        "id": 1,
+        "list": [
+            {
+                "code": 230,
+                "indent": 0,
+                "parameters": [
+                    600
+                ]
+            },
+            {
+                "code": 230,
+                "indent": 0,
+                "parameters": [
+                    600
+                ]
+            },
+            {
+                "code": 230,
+                "indent": 0,
+                "parameters": [
+                    600
+                ]
+            },
+            {
+                "code": 122,
+                "indent": 0,
+                "parameters": [
+                    21,
+                    21,
+                    1,
+                    0,
+                    1
+                ]
+            },
+            {
+                "code": 111,
+                "indent": 0,
+                "parameters": [
+                    1,
+                    21,
+                    0,
+                    60,
+                    1
+                ]
+            },
+            {
+                "code": 122,
+                "indent": 1,
+                "parameters": [
+                    21,
+                    21,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "code": 122,
+                "indent": 1,
+                "parameters": [
+                    22,
+                    22,
+                    1,
+                    0,
+                    1
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 412,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 111,
+                "indent": 0,
+                "parameters": [
+                    1,
+                    22,
+                    0,
+                    24,
+                    1
+                ]
+            },
+            {
+                "code": 122,
+                "indent": 1,
+                "parameters": [
+                    22,
+                    22,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "code": 122,
+                "indent": 1,
+                "parameters": [
+                    23,
+                    23,
+                    1,
+                    0,
+                    1
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 412,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }
+        ],
+        "name": "Time basic",
+        "switchId": 1,
+        "trigger": 2
+    },
+    {
+        "id": 2,
+        "list": [
+            {
+                "code": 355,
+                "indent": 0,
+                "parameters": [
+                    "$gameScreen.showPicture(13,'colon',0,112,0,100,100,255,0)"
+                ]
+            },
+            {
+                "code": 355,
+                "indent": 0,
+                "parameters": [
+                    "$gameScreen.showPicture(18,'colon',0,48,0,100,100,255,0)"
+                ]
+            },
+            {
+                "code": 111,
+                "indent": 0,
+                "parameters": [
+                    1,
+                    21,
+                    0,
+                    10,
+                    1
+                ]
+            },
+            {
+                "code": 355,
+                "indent": 1,
+                "parameters": [
+                    "$gameScreen.showPicture(11,String($gameVariables.value(21)%10),0,152,0,100,100,255,0)"
+                ]
+            },
+            {
+                "code": 355,
+                "indent": 1,
+                "parameters": [
+                    "$gameScreen.showPicture(12,String(parseInt($gameVariables.value(21)/10)),0,128,0,100,100,255,0)"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 411,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 355,
+                "indent": 1,
+                "parameters": [
+                    "$gameScreen.showPicture(11,String($gameVariables.value(21)),0,152,0,100,100,255,0)"
+                ]
+            },
+            {
+                "code": 355,
+                "indent": 1,
+                "parameters": [
+                    "$gameScreen.showPicture(12,String(parseInt($gameVariables.value(21)/10)),0,128,0,100,100,255,0)"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 412,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 111,
+                "indent": 0,
+                "parameters": [
+                    1,
+                    22,
+                    0,
+                    10,
+                    1
+                ]
+            },
+            {
+                "code": 355,
+                "indent": 1,
+                "parameters": [
+                    "$gameScreen.showPicture(14,String($gameVariables.value(22)%10),0,88,0,100,100,255,0)"
+                ]
+            },
+            {
+                "code": 355,
+                "indent": 1,
+                "parameters": [
+                    "$gameScreen.showPicture(15,String(parseInt($gameVariables.value(22)/10)),0,64,0,100,100,255,0)"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 411,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 355,
+                "indent": 1,
+                "parameters": [
+                    "$gameScreen.showPicture(14,String($gameVariables.value(22)),0,88,0,100,100,255,0)"
+                ]
+            },
+            {
+                "code": 355,
+                "indent": 1,
+                "parameters": [
+                    "$gameScreen.showPicture(15,String(parseInt($gameVariables.value(22)/10)),0,64,0,100,100,255,0)"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 412,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 111,
+                "indent": 0,
+                "parameters": [
+                    1,
+                    23,
+                    0,
+                    10,
+                    1
+                ]
+            },
+            {
+                "code": 355,
+                "indent": 1,
+                "parameters": [
+                    "$gameScreen.showPicture(16,String($gameVariables.value(23)%10),0,24,0,100,100,255,0)"
+                ]
+            },
+            {
+                "code": 355,
+                "indent": 1,
+                "parameters": [
+                    "$gameScreen.showPicture(17,String(parseInt($gameVariables.value(23)/10)),0,0,0,100,100,255,0)"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 411,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 355,
+                "indent": 1,
+                "parameters": [
+                    "$gameScreen.showPicture(16,String($gameVariables.value(23)),0,24,0,100,100,255,0)"
+                ]
+            },
+            {
+                "code": 355,
+                "indent": 1,
+                "parameters": [
+                    "$gameScreen.showPicture(17,String(parseInt($gameVariables.value(23)/10)),0,0,0,100,100,255,0)"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 412,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }
+        ],
+        "name": "Time output",
+        "switchId": 1,
+        "trigger": 2
+    },
+    {
+        "id": 3,
+        "list": [
+            {
+                "code": 111,
+                "indent": 0,
+                "parameters": [
+                    4,
+                    1,
+                    4,
+                    1
+                ]
+            },
+            {
+                "code": 322,
+                "indent": 1,
+                "parameters": [
+                    1,
+                    "hikaru_woooooodi",
+                    0,
+                    "",
+                    0,
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 412,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }
+        ],
+        "name": "Hikaru_Weapon",
+        "switchId": 1,
+        "trigger": 0
+    },
+    {
+        "id": 4,
+        "list": [
+            {
+                "code": 111,
+                "indent": 0,
+                "parameters": [
+                    11,
+                    "cancel",
+                    0
+                ]
+            },
+            {
+                "code": 205,
+                "indent": 1,
+                "parameters": [
+                    -1,
+                    {
+                        "list": [
+                            {
+                                "code": 0
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    }
+                ]
+            },
+            {
+                "code": 231,
+                "indent": 1,
+                "parameters": [
+                    1,
+                    "m_frame 001",
+                    0,
+                    0,
+                    0,
+                    0,
+                    100,
+                    100,
+                    0,
+                    0
+                ]
+            },
+            {
+                "code": 231,
+                "indent": 1,
+                "parameters": [
+                    6,
+                    "m_frame 002",
+                    0,
+                    0,
+                    0,
+                    0,
+                    100,
+                    100,
+                    0,
+                    0
+                ]
+            },
+            {
+                "code": 232,
+                "indent": 1,
+                "parameters": [
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    100,
+                    100,
+                    130,
+                    0,
+                    30,
+                    false,
+                    0
+                ]
+            },
+            {
+                "code": 232,
+                "indent": 1,
+                "parameters": [
+                    6,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    100,
+                    100,
+                    130,
+                    0,
+                    30,
+                    true,
+                    0
+                ]
+            },
+            {
+                "code": 231,
+                "indent": 1,
+                "parameters": [
+                    2,
+                    "m_button 001",
+                    0,
+                    0,
+                    -244,
+                    82,
+                    100,
+                    100,
+                    255,
+                    0
+                ]
+            },
+            {
+                "code": 231,
+                "indent": 1,
+                "parameters": [
+                    3,
+                    "m_button 002",
+                    0,
+                    0,
+                    -262,
+                    178,
+                    100,
+                    100,
+                    255,
+                    0
+                ]
+            },
+            {
+                "code": 231,
+                "indent": 1,
+                "parameters": [
+                    4,
+                    "m_button 003",
+                    0,
+                    0,
+                    -244,
+                    280,
+                    100,
+                    100,
+                    255,
+                    0
+                ]
+            },
+            {
+                "code": 231,
+                "indent": 1,
+                "parameters": [
+                    5,
+                    "m_button 004",
+                    0,
+                    0,
+                    -262,
+                    376,
+                    100,
+                    100,
+                    255,
+                    0
+                ]
+            },
+            {
+                "code": 234,
+                "indent": 1,
+                "parameters": [
+                    3,
+                    [
+                        -68,
+                        -68,
+                        -68,
+                        0
+                    ],
+                    1,
+                    false
+                ]
+            },
+            {
+                "code": 234,
+                "indent": 1,
+                "parameters": [
+                    4,
+                    [
+                        -68,
+                        -68,
+                        -68,
+                        0
+                    ],
+                    1,
+                    false
+                ]
+            },
+            {
+                "code": 234,
+                "indent": 1,
+                "parameters": [
+                    5,
+                    [
+                        -68,
+                        -68,
+                        -68,
+                        0
+                    ],
+                    1,
+                    false
+                ]
+            },
+            {
+                "code": 232,
+                "indent": 1,
+                "parameters": [
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    100,
+                    100,
+                    255,
+                    0,
+                    30,
+                    false,
+                    0
+                ]
+            },
+            {
+                "code": 232,
+                "indent": 1,
+                "parameters": [
+                    6,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    100,
+                    100,
+                    255,
+                    0,
+                    30,
+                    false,
+                    0
+                ]
+            },
+            {
+                "code": 232,
+                "indent": 1,
+                "parameters": [
+                    2,
+                    0,
+                    0,
+                    0,
+                    62,
+                    82,
+                    100,
+                    100,
+                    255,
+                    0,
+                    10,
+                    false,
+                    0
+                ]
+            },
+            {
+                "code": 230,
+                "indent": 1,
+                "parameters": [
+                    10
+                ]
+            },
+            {
+                "code": 232,
+                "indent": 1,
+                "parameters": [
+                    3,
+                    0,
+                    0,
+                    0,
+                    44,
+                    178,
+                    100,
+                    100,
+                    255,
+                    0,
+                    10,
+                    false,
+                    0
+                ]
+            },
+            {
+                "code": 230,
+                "indent": 1,
+                "parameters": [
+                    10
+                ]
+            },
+            {
+                "code": 232,
+                "indent": 1,
+                "parameters": [
+                    4,
+                    0,
+                    0,
+                    0,
+                    62,
+                    280,
+                    100,
+                    100,
+                    255,
+                    0,
+                    10,
+                    false,
+                    0
+                ]
+            },
+            {
+                "code": 230,
+                "indent": 1,
+                "parameters": [
+                    10
+                ]
+            },
+            {
+                "code": 121,
+                "indent": 1,
+                "parameters": [
+                    19,
+                    19,
+                    0
+                ]
+            },
+            {
+                "code": 232,
+                "indent": 1,
+                "parameters": [
+                    5,
+                    0,
+                    0,
+                    0,
+                    44,
+                    376,
+                    100,
+                    100,
+                    255,
+                    0,
+                    10,
+                    true,
+                    0
+                ]
+            },
+            {
+                "code": 231,
+                "indent": 1,
+                "parameters": [
+                    7,
+                    "m_button 006",
+                    0,
+                    0,
+                    264,
+                    92,
+                    100,
+                    100,
+                    255,
+                    0
+                ]
+            },
+            {
+                "code": 121,
+                "indent": 1,
+                "parameters": [
+                    19,
+                    19,
+                    0
+                ]
+            },
+            {
+                "code": 122,
+                "indent": 1,
+                "parameters": [
+                    25,
+                    25,
+                    0,
+                    0,
+                    1
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 412,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 111,
+                "indent": 0,
+                "parameters": [
+                    0,
+                    19,
+                    0
+                ]
+            },
+            {
+                "code": 111,
+                "indent": 1,
+                "parameters": [
+                    11,
+                    "down",
+                    0
+                ]
+            },
+            {
+                "code": 250,
+                "indent": 2,
+                "parameters": [
+                    {
+                        "name": "Key",
+                        "volume": 90,
+                        "pitch": 100,
+                        "pan": 0
+                    }
+                ]
+            },
+            {
+                "code": 111,
+                "indent": 2,
+                "parameters": [
+                    1,
+                    25,
+                    0,
+                    4,
+                    5
+                ]
+            },
+            {
+                "code": 122,
+                "indent": 3,
+                "parameters": [
+                    25,
+                    25,
+                    1,
+                    0,
+                    1
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 3,
+                "parameters": []
+            },
+            {
+                "code": 411,
+                "indent": 2,
+                "parameters": []
+            },
+            {
+                "code": 122,
+                "indent": 3,
+                "parameters": [
+                    25,
+                    25,
+                    0,
+                    0,
+                    1
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 3,
+                "parameters": []
+            },
+            {
+                "code": 412,
+                "indent": 2,
+                "parameters": []
+            },
+            {
+                "code": 0,
+                "indent": 2,
+                "parameters": []
+            },
+            {
+                "code": 412,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 111,
+                "indent": 1,
+                "parameters": [
+                    11,
+                    "up",
+                    0
+                ]
+            },
+            {
+                "code": 250,
+                "indent": 2,
+                "parameters": [
+                    {
+                        "name": "Key",
+                        "volume": 90,
+                        "pitch": 100,
+                        "pan": 0
+                    }
+                ]
+            },
+            {
+                "code": 111,
+                "indent": 2,
+                "parameters": [
+                    1,
+                    25,
+                    0,
+                    1,
+                    5
+                ]
+            },
+            {
+                "code": 122,
+                "indent": 3,
+                "parameters": [
+                    25,
+                    25,
+                    2,
+                    0,
+                    1
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 3,
+                "parameters": []
+            },
+            {
+                "code": 411,
+                "indent": 2,
+                "parameters": []
+            },
+            {
+                "code": 122,
+                "indent": 3,
+                "parameters": [
+                    25,
+                    25,
+                    0,
+                    0,
+                    4
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 3,
+                "parameters": []
+            },
+            {
+                "code": 412,
+                "indent": 2,
+                "parameters": []
+            },
+            {
+                "code": 0,
+                "indent": 2,
+                "parameters": []
+            },
+            {
+                "code": 412,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 412,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 111,
+                "indent": 0,
+                "parameters": [
+                    1,
+                    25,
+                    0,
+                    1,
+                    0
+                ]
+            },
+            {
+                "code": 234,
+                "indent": 1,
+                "parameters": [
+                    2,
+                    [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    1,
+                    false
+                ]
+            },
+            {
+                "code": 234,
+                "indent": 1,
+                "parameters": [
+                    3,
+                    [
+                        -68,
+                        -68,
+                        -68,
+                        0
+                    ],
+                    1,
+                    false
+                ]
+            },
+            {
+                "code": 234,
+                "indent": 1,
+                "parameters": [
+                    4,
+                    [
+                        -68,
+                        -68,
+                        -68,
+                        0
+                    ],
+                    1,
+                    false
+                ]
+            },
+            {
+                "code": 234,
+                "indent": 1,
+                "parameters": [
+                    5,
+                    [
+                        -68,
+                        -68,
+                        -68,
+                        0
+                    ],
+                    1,
+                    false
+                ]
+            },
+            {
+                "code": 232,
+                "indent": 1,
+                "parameters": [
+                    7,
+                    0,
+                    0,
+                    0,
+                    264,
+                    92,
+                    100,
+                    100,
+                    255,
+                    0,
+                    1,
+                    true,
+                    0
+                ]
+            },
+            {
+                "code": 111,
+                "indent": 1,
+                "parameters": [
+                    0,
+                    19,
+                    0
+                ]
+            },
+            {
+                "code": 111,
+                "indent": 2,
+                "parameters": [
+                    11,
+                    "ok",
+                    0
+                ]
+            },
+            {
+                "code": 355,
+                "indent": 3,
+                "parameters": [
+                    "SceneManager.push(Scene_Item);"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 3,
+                "parameters": []
+            },
+            {
+                "code": 412,
+                "indent": 2,
+                "parameters": []
+            },
+            {
+                "code": 0,
+                "indent": 2,
+                "parameters": []
+            },
+            {
+                "code": 412,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 412,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 111,
+                "indent": 0,
+                "parameters": [
+                    1,
+                    25,
+                    0,
+                    2,
+                    0
+                ]
+            },
+            {
+                "code": 234,
+                "indent": 1,
+                "parameters": [
+                    2,
+                    [
+                        -68,
+                        -68,
+                        -68,
+                        0
+                    ],
+                    1,
+                    false
+                ]
+            },
+            {
+                "code": 234,
+                "indent": 1,
+                "parameters": [
+                    3,
+                    [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    1,
+                    false
+                ]
+            },
+            {
+                "code": 234,
+                "indent": 1,
+                "parameters": [
+                    4,
+                    [
+                        -68,
+                        -68,
+                        -68,
+                        0
+                    ],
+                    1,
+                    false
+                ]
+            },
+            {
+                "code": 234,
+                "indent": 1,
+                "parameters": [
+                    5,
+                    [
+                        -68,
+                        -68,
+                        -68,
+                        0
+                    ],
+                    1,
+                    false
+                ]
+            },
+            {
+                "code": 232,
+                "indent": 1,
+                "parameters": [
+                    7,
+                    0,
+                    0,
+                    0,
+                    244,
+                    190,
+                    100,
+                    100,
+                    255,
+                    0,
+                    1,
+                    true,
+                    0
+                ]
+            },
+            {
+                "code": 111,
+                "indent": 1,
+                "parameters": [
+                    0,
+                    19,
+                    0
+                ]
+            },
+            {
+                "code": 111,
+                "indent": 2,
+                "parameters": [
+                    11,
+                    "ok",
+                    0
+                ]
+            },
+            {
+                "code": 355,
+                "indent": 3,
+                "parameters": [
+                    "SceneManager.push(Scene_Save);"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 3,
+                "parameters": []
+            },
+            {
+                "code": 412,
+                "indent": 2,
+                "parameters": []
+            },
+            {
+                "code": 0,
+                "indent": 2,
+                "parameters": []
+            },
+            {
+                "code": 412,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 412,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 111,
+                "indent": 0,
+                "parameters": [
+                    1,
+                    25,
+                    0,
+                    3,
+                    0
+                ]
+            },
+            {
+                "code": 234,
+                "indent": 1,
+                "parameters": [
+                    2,
+                    [
+                        -68,
+                        -68,
+                        -68,
+                        0
+                    ],
+                    1,
+                    false
+                ]
+            },
+            {
+                "code": 234,
+                "indent": 1,
+                "parameters": [
+                    3,
+                    [
+                        -68,
+                        -68,
+                        -68,
+                        0
+                    ],
+                    1,
+                    false
+                ]
+            },
+            {
+                "code": 234,
+                "indent": 1,
+                "parameters": [
+                    4,
+                    [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    1,
+                    false
+                ]
+            },
+            {
+                "code": 234,
+                "indent": 1,
+                "parameters": [
+                    5,
+                    [
+                        -68,
+                        -68,
+                        -68,
+                        0
+                    ],
+                    1,
+                    false
+                ]
+            },
+            {
+                "code": 232,
+                "indent": 1,
+                "parameters": [
+                    7,
+                    0,
+                    0,
+                    0,
+                    264,
+                    290,
+                    100,
+                    100,
+                    255,
+                    0,
+                    1,
+                    true,
+                    0
+                ]
+            },
+            {
+                "code": 111,
+                "indent": 1,
+                "parameters": [
+                    0,
+                    19,
+                    0
+                ]
+            },
+            {
+                "code": 111,
+                "indent": 2,
+                "parameters": [
+                    11,
+                    "ok",
+                    0
+                ]
+            },
+            {
+                "code": 355,
+                "indent": 3,
+                "parameters": [
+                    "SceneManager.push(Scene_Options);"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 3,
+                "parameters": []
+            },
+            {
+                "code": 412,
+                "indent": 2,
+                "parameters": []
+            },
+            {
+                "code": 0,
+                "indent": 2,
+                "parameters": []
+            },
+            {
+                "code": 412,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 412,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 111,
+                "indent": 0,
+                "parameters": [
+                    1,
+                    25,
+                    0,
+                    4,
+                    0
+                ]
+            },
+            {
+                "code": 234,
+                "indent": 1,
+                "parameters": [
+                    2,
+                    [
+                        -68,
+                        -68,
+                        -68,
+                        0
+                    ],
+                    1,
+                    false
+                ]
+            },
+            {
+                "code": 234,
+                "indent": 1,
+                "parameters": [
+                    3,
+                    [
+                        -68,
+                        -68,
+                        -68,
+                        0
+                    ],
+                    1,
+                    false
+                ]
+            },
+            {
+                "code": 234,
+                "indent": 1,
+                "parameters": [
+                    4,
+                    [
+                        -68,
+                        -68,
+                        -68,
+                        0
+                    ],
+                    1,
+                    false
+                ]
+            },
+            {
+                "code": 234,
+                "indent": 1,
+                "parameters": [
+                    5,
+                    [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    1,
+                    false
+                ]
+            },
+            {
+                "code": 232,
+                "indent": 1,
+                "parameters": [
+                    7,
+                    0,
+                    0,
+                    0,
+                    244,
+                    388,
+                    100,
+                    100,
+                    255,
+                    0,
+                    1,
+                    true,
+                    0
+                ]
+            },
+            {
+                "code": 111,
+                "indent": 1,
+                "parameters": [
+                    0,
+                    19,
+                    0
+                ]
+            },
+            {
+                "code": 111,
+                "indent": 2,
+                "parameters": [
+                    11,
+                    "ok",
+                    0
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 3,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    1,
+                    ""
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 3,
+                "parameters": [
+                    "本当にタイトルに戻りますか？"
+                ]
+            },
+            {
+                "code": 102,
+                "indent": 3,
+                "parameters": [
+                    [
+                        "はい",
+                        "いいえ"
+                    ],
+                    1,
+                    -1,
+                    2,
+                    0
+                ]
+            },
+            {
+                "code": 402,
+                "indent": 3,
+                "parameters": [
+                    0,
+                    "はい"
+                ]
+            },
+            {
+                "code": 354,
+                "indent": 4,
+                "parameters": []
+            },
+            {
+                "code": 0,
+                "indent": 4,
+                "parameters": []
+            },
+            {
+                "code": 402,
+                "indent": 3,
+                "parameters": [
+                    1,
+                    "いいえ"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 4,
+                "parameters": []
+            },
+            {
+                "code": 404,
+                "indent": 3,
+                "parameters": []
+            },
+            {
+                "code": 0,
+                "indent": 3,
+                "parameters": []
+            },
+            {
+                "code": 412,
+                "indent": 2,
+                "parameters": []
+            },
+            {
+                "code": 0,
+                "indent": 2,
+                "parameters": []
+            },
+            {
+                "code": 412,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 412,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 230,
+                "indent": 0,
+                "parameters": [
+                    10
+                ]
+            },
+            {
+                "code": 111,
+                "indent": 0,
+                "parameters": [
+                    11,
+                    "cancel",
+                    0
+                ]
+            },
+            {
+                "code": 121,
+                "indent": 1,
+                "parameters": [
+                    19,
+                    19,
+                    1
+                ]
+            },
+            {
+                "code": 235,
+                "indent": 1,
+                "parameters": [
+                    1
+                ]
+            },
+            {
+                "code": 235,
+                "indent": 1,
+                "parameters": [
+                    2
+                ]
+            },
+            {
+                "code": 235,
+                "indent": 1,
+                "parameters": [
+                    3
+                ]
+            },
+            {
+                "code": 235,
+                "indent": 1,
+                "parameters": [
+                    4
+                ]
+            },
+            {
+                "code": 235,
+                "indent": 1,
+                "parameters": [
+                    5
+                ]
+            },
+            {
+                "code": 235,
+                "indent": 1,
+                "parameters": [
+                    6
+                ]
+            },
+            {
+                "code": 235,
+                "indent": 1,
+                "parameters": [
+                    7
+                ]
+            },
+            {
+                "code": 205,
+                "indent": 1,
+                "parameters": [
+                    -1,
+                    {
+                        "list": [
+                            {
+                                "code": 0
+                            }
+                        ],
+                        "repeat": false,
+                        "skippable": false,
+                        "wait": false
+                    }
+                ]
+            },
+            {
+                "code": 230,
+                "indent": 1,
+                "parameters": [
+                    10
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 412,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }
+        ],
+        "name": "menu_c",
+        "switchId": 18,
+        "trigger": 2
+    },
+    {
+        "id": 5,
+        "list": [
+            {
+                "code": 230,
+                "indent": 0,
+                "parameters": [
+                    6
+                ]
+            },
+            {
+                "code": 122,
+                "indent": 0,
+                "parameters": [
+                    21,
+                    21,
+                    1,
+                    0,
+                    1
+                ]
+            },
+            {
+                "code": 111,
+                "indent": 0,
+                "parameters": [
+                    1,
+                    21,
+                    0,
+                    10,
+                    1
+                ]
+            },
+            {
+                "code": 122,
+                "indent": 1,
+                "parameters": [
+                    21,
+                    21,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "code": 122,
+                "indent": 1,
+                "parameters": [
+                    22,
+                    22,
+                    1,
+                    0,
+                    1
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 412,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 111,
+                "indent": 0,
+                "parameters": [
+                    1,
+                    22,
+                    0,
+                    60,
+                    1
+                ]
+            },
+            {
+                "code": 122,
+                "indent": 1,
+                "parameters": [
+                    22,
+                    22,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "code": 122,
+                "indent": 1,
+                "parameters": [
+                    23,
+                    23,
+                    1,
+                    0,
+                    1
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 412,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }
+        ],
+        "name": "Time basic",
+        "switchId": 1,
+        "trigger": 2
+    },
+    {
+        "id": 6,
+        "list": [
+            {
+                "code": 355,
+                "indent": 0,
+                "parameters": [
+                    "$gameScreen.showPicture(13,'colon',0,112,0,100,100,255,0)"
+                ]
+            },
+            {
+                "code": 355,
+                "indent": 0,
+                "parameters": [
+                    "$gameScreen.showPicture(18,'colon',0,48,0,100,100,255,0)"
+                ]
+            },
+            {
+                "code": 111,
+                "indent": 0,
+                "parameters": [
+                    1,
+                    21,
+                    0,
+                    10,
+                    1
+                ]
+            },
+            {
+                "code": 355,
+                "indent": 1,
+                "parameters": [
+                    "$gameScreen.showPicture(11,String($gameVariables.value(21)%10),0,152,0,100,100,255,0)"
+                ]
+            },
+            {
+                "code": 355,
+                "indent": 1,
+                "parameters": [
+                    "$gameScreen.showPicture(12,String(parseInt($gameVariables.value(21)/10)),0,128,0,100,100,255,0)"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 411,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 355,
+                "indent": 1,
+                "parameters": [
+                    "$gameScreen.showPicture(11,String($gameVariables.value(21)),0,152,0,100,100,255,0)"
+                ]
+            },
+            {
+                "code": 355,
+                "indent": 1,
+                "parameters": [
+                    "$gameScreen.showPicture(12,String(parseInt($gameVariables.value(21)/10)),0,128,0,100,100,255,0)"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 412,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 111,
+                "indent": 0,
+                "parameters": [
+                    1,
+                    22,
+                    0,
+                    10,
+                    1
+                ]
+            },
+            {
+                "code": 355,
+                "indent": 1,
+                "parameters": [
+                    "$gameScreen.showPicture(14,String($gameVariables.value(22)%10),0,88,0,100,100,255,0)"
+                ]
+            },
+            {
+                "code": 355,
+                "indent": 1,
+                "parameters": [
+                    "$gameScreen.showPicture(15,String(parseInt($gameVariables.value(22)/10)),0,64,0,100,100,255,0)"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 411,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 355,
+                "indent": 1,
+                "parameters": [
+                    "$gameScreen.showPicture(14,String($gameVariables.value(22)),0,88,0,100,100,255,0)"
+                ]
+            },
+            {
+                "code": 355,
+                "indent": 1,
+                "parameters": [
+                    "$gameScreen.showPicture(15,String(parseInt($gameVariables.value(22)/10)),0,64,0,100,100,255,0)"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 412,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 111,
+                "indent": 0,
+                "parameters": [
+                    1,
+                    23,
+                    0,
+                    10,
+                    1
+                ]
+            },
+            {
+                "code": 355,
+                "indent": 1,
+                "parameters": [
+                    "$gameScreen.showPicture(16,String($gameVariables.value(23)%10),0,24,0,100,100,255,0)"
+                ]
+            },
+            {
+                "code": 355,
+                "indent": 1,
+                "parameters": [
+                    "$gameScreen.showPicture(17,String(parseInt($gameVariables.value(23)/10)),0,0,0,100,100,255,0)"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 411,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 355,
+                "indent": 1,
+                "parameters": [
+                    "$gameScreen.showPicture(16,String($gameVariables.value(23)),0,24,0,100,100,255,0)"
+                ]
+            },
+            {
+                "code": 355,
+                "indent": 1,
+                "parameters": [
+                    "$gameScreen.showPicture(17,String(parseInt($gameVariables.value(23)/10)),0,0,0,100,100,255,0)"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 412,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }
+        ],
+        "name": "Time output",
+        "switchId": 1,
+        "trigger": 2
+    }
+]

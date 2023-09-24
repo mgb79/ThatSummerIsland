@@ -1,0 +1,3926 @@
+{
+    "autoplayBgm": true,
+    "autoplayBgs": true,
+    "battleback1Name": "",
+    "battleback2Name": "",
+    "bgm": {
+        "name": "019. NEKOZOU - Chill time (H)",
+        "pan": 0,
+        "pitch": 100,
+        "volume": 90
+    },
+    "bgs": {
+        "name": "",
+        "pan": 0,
+        "pitch": 100,
+        "volume": 90
+    },
+    "disableDashing": false,
+    "displayName": "",
+    "encounterList": [],
+    "encounterStep": 30,
+    "height": 13,
+    "note": "",
+    "parallaxLoopX": false,
+    "parallaxLoopY": false,
+    "parallaxName": "",
+    "parallaxShow": true,
+    "parallaxSx": 0,
+    "parallaxSy": 0,
+    "scrollType": 0,
+    "specifyBattleback": false,
+    "tilesetId": 11,
+    "width": 17,
+    "data": [
+        6656,
+        6656,
+        6656,
+        6660,
+        6684,
+        6684,
+        6684,
+        6684,
+        6684,
+        6668,
+        6684,
+        6684,
+        6684,
+        6684,
+        6684,
+        6684,
+        6664,
+        6656,
+        6656,
+        6656,
+        6680,
+        7042,
+        7042,
+        7042,
+        7042,
+        7042,
+        6688,
+        7042,
+        7042,
+        7042,
+        7042,
+        7042,
+        7042,
+        6672,
+        6660,
+        6684,
+        6684,
+        6681,
+        7048,
+        7048,
+        7048,
+        7048,
+        7048,
+        6688,
+        7048,
+        7048,
+        7048,
+        7048,
+        7048,
+        7048,
+        6672,
+        6680,
+        7042,
+        7042,
+        6688,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        6688,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        6672,
+        6680,
+        7048,
+        7048,
+        6688,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        6688,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        6672,
+        6680,
+        1557,
+        1557,
+        6688,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        6688,
+        1552,
+        1552,
+        1552,
+        6699,
+        6689,
+        6689,
+        6685,
+        6680,
+        1557,
+        1557,
+        6697,
+        6689,
+        6701,
+        1552,
+        6699,
+        6689,
+        6687,
+        6689,
+        6701,
+        1552,
+        7043,
+        7042,
+        7042,
+        7046,
+        6680,
+        1557,
+        1557,
+        7043,
+        7042,
+        7046,
+        1552,
+        7043,
+        7042,
+        7042,
+        7042,
+        7046,
+        1552,
+        7049,
+        7048,
+        7048,
+        7052,
+        6680,
+        1557,
+        1557,
+        7049,
+        7048,
+        7052,
+        1552,
+        7049,
+        7048,
+        7048,
+        7048,
+        7052,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        6680,
+        1557,
+        1557,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        6690,
+        6658,
+        6676,
+        6676,
+        6692,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        6672,
+        6656,
+        6656,
+        6656,
+        6680,
+        1552,
+        1552,
+        1552,
+        1552,
+        1550,
+        1550,
+        1550,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        6672,
+        6684,
+        6684,
+        6684,
+        6686,
+        6689,
+        6689,
+        6689,
+        6689,
+        6701,
+        1550,
+        6699,
+        6689,
+        6689,
+        6689,
+        6689,
+        6689,
+        6685,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        675,
+        0,
+        0,
+        0,
+        0,
+        0,
+        675,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        117,
+        133,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        125,
+        141,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        667,
+        0,
+        0,
+        0,
+        0,
+        0,
+        667,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        43,
+        643,
+        26,
+        60,
+        61,
+        0,
+        60,
+        61,
+        26,
+        0,
+        643,
+        43,
+        0,
+        0,
+        0,
+        123,
+        0,
+        51,
+        651,
+        34,
+        68,
+        69,
+        0,
+        68,
+        69,
+        34,
+        0,
+        651,
+        51,
+        0,
+        0,
+        118,
+        116,
+        0,
+        0,
+        659,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        659,
+        0,
+        0,
+        0,
+        126,
+        124,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        131,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        139,
+        0,
+        0,
+        0,
+        0,
+        0,
+        560,
+        561,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        147,
+        0,
+        0,
+        0,
+        0,
+        0,
+        568,
+        569,
+        680,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        576,
+        577,
+        688,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "events": [
+        null,
+        {
+            "id": 1,
+            "name": "EV001",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "characterIndex": 0,
+                        "characterName": "",
+                        "direction": 2,
+                        "pattern": 0,
+                        "tileId": 0
+                    },
+                    "list": [
+                        {
+                            "code": 201,
+                            "indent": 0,
+                            "parameters": [
+                                0,
+                                39,
+                                1,
+                                6,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 1,
+                    "walkAnime": true
+                }
+            ],
+            "x": 16,
+            "y": 8
+        },
+        {
+            "id": 2,
+            "name": "EV002",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "characterIndex": 0,
+                        "characterName": "",
+                        "direction": 2,
+                        "pattern": 0,
+                        "tileId": 0
+                    },
+                    "list": [
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "When you come out here, it's a small terrace."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I don't have any business here."
+                            ]
+                        },
+                        {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [
+                                -1,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 4,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 4,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 1,
+                    "walkAnime": true
+                }
+            ],
+            "x": 9,
+            "y": 12
+        },
+        {
+            "id": 3,
+            "name": "kanae",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "char chip (hadaka)",
+                        "direction": 6,
+                        "pattern": 1,
+                        "characterIndex": 0
+                    },
+                    "list": [
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                18,
+                                18,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "One night..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Kanae is sitting quietly in front of me, in a formal\nkneeling position."
+                            ]
+                        },
+                        {
+                            "code": 357,
+                            "indent": 0,
+                            "parameters": [
+                                "MoviePicture",
+                                "PREPARE",
+                                "ピクチャ動画準備",
+                                {
+                                    "fileName": "kanae_001 a (loop)",
+                                    "loop": "true",
+                                    "smooth": "false",
+                                    "volume": "100",
+                                    "reload": "false",
+                                    "autoplay": "true",
+                                    "finishSwitch": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "ファイル名 = kanae_001 a (loop)"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "ループ = true"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "なめらか表示 = false"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "音量 = 100"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "再読み込み = false"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "自動再生 = true"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "再生終了スイッチ = 0"
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                "",
+                                1,
+                                0,
+                                408,
+                                260,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 357,
+                            "indent": 0,
+                            "parameters": [
+                                "MoviePicture",
+                                "PLAY",
+                                "再生",
+                                {
+                                    "pictureId": "1"
+                                }
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "ピクチャ番号 = 1"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Kanae"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Hehe... It has come to this, huh."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Hikaru"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Are you okay?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Kanae"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I'm fine. Because it's yours, Hikaru."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 245,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "name": "手コキ（普通）",
+                                    "volume": 90,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "After saying that, Kanae humbly grips onto mine and moves\nback and forth."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I feel strange when I think that my things are being\nheld in those beautiful hands of yours."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Even though we haven't even had a normal date, it's already\nescalating."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I wonder what would have happened if we hadn't been\ntrapped on this island."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "She and I, for example, go on dates like an ordinary\ncouple, celebrate anniversaries, and confirm each\nother's feelings..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I wonder if there were moments like that too?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "It's a bad habit of mine to think about what-ifs."
+                            ]
+                        },
+                        {
+                            "code": 357,
+                            "indent": 0,
+                            "parameters": [
+                                "MoviePicture",
+                                "PREPARE",
+                                "ピクチャ動画準備",
+                                {
+                                    "fileName": "kanae_001 b (loop)",
+                                    "loop": "true",
+                                    "smooth": "false",
+                                    "volume": "100",
+                                    "reload": "false",
+                                    "autoplay": "true",
+                                    "finishSwitch": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "ファイル名 = kanae_001 b (loop)"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "ループ = true"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "なめらか表示 = false"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "音量 = 100"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "再読み込み = false"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "自動再生 = true"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "再生終了スイッチ = 0"
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 0,
+                            "parameters": [
+                                2,
+                                "",
+                                1,
+                                0,
+                                408,
+                                260,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 357,
+                            "indent": 0,
+                            "parameters": [
+                                "MoviePicture",
+                                "PLAY",
+                                "再生",
+                                {
+                                    "pictureId": "2"
+                                }
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "ピクチャ番号 = 2"
+                            ]
+                        },
+                        {
+                            "code": 245,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "name": "手コキ（速め）",
+                                    "volume": 90,
+                                    "pitch": 90,
+                                    "pan": 0
+                                }
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Kanae"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Ei, ei!"
+                            ]
+                        },
+                        {
+                            "code": 235,
+                            "indent": 0,
+                            "parameters": [
+                                1
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Kanae starts shaking my meat stick with a wrist snap, as if\nknocking on a door."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "When I thought that an innocent girl was playing tricks on\nme, I felt my blood rushing to my crotch again."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "The precum, which was too excited and flowing out\nfrom the exit, began to create a frothy white foam\nbetween her hand and the stick."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "She looks at it with an affectionate gaze, without any\nsign of dislike."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Kanae"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Kyaa, it moved a little."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Hikaru"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Because Kanae's hand felt good..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "But not until I ejaculate."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Since she should have touched a man's thing for the first\ntime in her life, it's natural, or rather, her handling\nwas very clumsy."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Due to thinking about such things, I ended up wanting to\nlet my thing bite into the mouth that always chirps\nlike a sparrow."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "If two lovers are in this position, probably anyone would\nthink of giving a blowjob."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Kanae"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Oh... with your mouth? Yeah..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Hikaru"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Please."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Ah, a man who bows his head."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "But my precious thing had already become a hostage."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "It feels good, but it's not enough to reach ejaculation.\nI felt like my head was going crazy from only being\ngiven that kind of stimulation."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Kanae, who seemed to know absolutely nothing about such\nthings, was just teasing and playing with mine with a\nmischievous smile."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Kanae"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Well, it's fine."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Kanae"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Looking at it like this... it might be a little cute,"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Kanae"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "......"
+                            ]
+                        },
+                        {
+                            "code": 357,
+                            "indent": 0,
+                            "parameters": [
+                                "MoviePicture",
+                                "PREPARE",
+                                "ピクチャ動画準備",
+                                {
+                                    "fileName": "kanae_001 c (loop)",
+                                    "loop": "true",
+                                    "smooth": "false",
+                                    "volume": "100",
+                                    "reload": "false",
+                                    "autoplay": "true",
+                                    "finishSwitch": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "ファイル名 = kanae_001 c (loop)"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "ループ = true"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "なめらか表示 = false"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "音量 = 100"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "再読み込み = false"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "自動再生 = true"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "再生終了スイッチ = 0"
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 0,
+                            "parameters": [
+                                3,
+                                "",
+                                1,
+                                0,
+                                408,
+                                260,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 357,
+                            "indent": 0,
+                            "parameters": [
+                                "MoviePicture",
+                                "PLAY",
+                                "再生",
+                                {
+                                    "pictureId": "3"
+                                }
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "ピクチャ番号 = 3"
+                            ]
+                        },
+                        {
+                            "code": 245,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "name": "キスの音",
+                                    "volume": 90,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Kanae's small mouth enveloped mine."
+                            ]
+                        },
+                        {
+                            "code": 235,
+                            "indent": 0,
+                            "parameters": [
+                                2
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "They look cute, like a squirrel, when they puff up their\ncheeks so earnestly."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Hikaru"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "..."
+                            ]
+                        },
+                        {
+                            "code": 357,
+                            "indent": 0,
+                            "parameters": [
+                                "MoviePicture",
+                                "PREPARE",
+                                "ピクチャ動画準備",
+                                {
+                                    "fileName": "kanae_001 b (loop)",
+                                    "loop": "true",
+                                    "smooth": "false",
+                                    "volume": "100",
+                                    "reload": "false",
+                                    "autoplay": "true",
+                                    "finishSwitch": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "ファイル名 = kanae_001 b (loop)"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "ループ = true"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "なめらか表示 = false"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "音量 = 100"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "再読み込み = false"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "自動再生 = true"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "再生終了スイッチ = 0"
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 0,
+                            "parameters": [
+                                4,
+                                "",
+                                1,
+                                0,
+                                408,
+                                260,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 357,
+                            "indent": 0,
+                            "parameters": [
+                                "MoviePicture",
+                                "PLAY",
+                                "再生",
+                                {
+                                    "pictureId": "4"
+                                }
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "ピクチャ番号 = 4"
+                            ]
+                        },
+                        {
+                            "code": 245,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "name": "手コキ（普通）",
+                                    "volume": 90,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Kanae"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Ouch, did it hurt...?"
+                            ]
+                        },
+                        {
+                            "code": 235,
+                            "indent": 0,
+                            "parameters": [
+                                3
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Hikaru"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "N-No, because it felt good."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Kanae"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "What, surprised? Haa, u...npu..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 357,
+                            "indent": 0,
+                            "parameters": [
+                                "MoviePicture",
+                                "PREPARE",
+                                "ピクチャ動画準備",
+                                {
+                                    "fileName": "kanae_001 c (loop)",
+                                    "loop": "true",
+                                    "smooth": "false",
+                                    "volume": "100",
+                                    "reload": "false",
+                                    "autoplay": "true",
+                                    "finishSwitch": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "ファイル名 = kanae_001 c (loop)"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "ループ = true"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "なめらか表示 = false"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "音量 = 100"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "再読み込み = false"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "自動再生 = true"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "再生終了スイッチ = 0"
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 0,
+                            "parameters": [
+                                5,
+                                "",
+                                1,
+                                0,
+                                408,
+                                260,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 357,
+                            "indent": 0,
+                            "parameters": [
+                                "MoviePicture",
+                                "PLAY",
+                                "再生",
+                                {
+                                    "pictureId": "5"
+                                }
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "ピクチャ番号 = 5"
+                            ]
+                        },
+                        {
+                            "code": 245,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "name": "ベロ吸いキスの音",
+                                    "volume": 90,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "The sound of a sloppy kiss echoes throughout the room."
+                            ]
+                        },
+                        {
+                            "code": 235,
+                            "indent": 0,
+                            "parameters": [
+                                4
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Her first blowjob was definitely clumsy, but maybe because\nI could smell Kanae's scent filling up the small room,\nI was already starting to feel like I was reaching my\nlimit."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Kanae"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Mmm...? Hapu, upu..., kimohi..., good?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I answered while stroking Kanae's head that it felt\ngood."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Afterwards, I thought."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I want to stain this girl's innocent face with my\ncolor,"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "The vulgar desire from deep within started to strongly\ntempt me."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Hikaru"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Ugh, Kanae!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Kanae"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Huh...! W-Wait, what are you doing!?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I firmly grabbed Kanae's head and thrust my meat rod\ndeep into their throat."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "The surprised, round eyes became a good spice that added\nto the ejaculation."
+                            ]
+                        },
+                        {
+                            "code": 357,
+                            "indent": 0,
+                            "parameters": [
+                                "MoviePicture",
+                                "PREPARE",
+                                "ピクチャ動画準備",
+                                {
+                                    "fileName": "kanae_001 d",
+                                    "loop": "false",
+                                    "smooth": "false",
+                                    "volume": "100",
+                                    "reload": "false",
+                                    "autoplay": "true",
+                                    "finishSwitch": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "ファイル名 = kanae_001 d"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "ループ = false"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "なめらか表示 = false"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "音量 = 100"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "再読み込み = false"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "自動再生 = true"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "再生終了スイッチ = 0"
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 0,
+                            "parameters": [
+                                6,
+                                "",
+                                1,
+                                0,
+                                408,
+                                260,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 357,
+                            "indent": 0,
+                            "parameters": [
+                                "MoviePicture",
+                                "PLAY",
+                                "再生",
+                                {
+                                    "pictureId": "6"
+                                }
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "ピクチャ番号 = 6"
+                            ]
+                        },
+                        {
+                            "code": 245,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "name": "ピストン音（速め)",
+                                    "volume": 90,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        },
+                        {
+                            "code": 230,
+                            "indent": 0,
+                            "parameters": [
+                                200
+                            ]
+                        },
+                        {
+                            "code": 235,
+                            "indent": 0,
+                            "parameters": [
+                                5
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Kanae"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Hikaa, uhh! Faa, n...! Fubu!?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 245,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "name": "",
+                                    "volume": 90,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        },
+                        {
+                            "code": 250,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "name": "射精音1",
+                                    "volume": 90,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        },
+                        {
+                            "code": 224,
+                            "indent": 0,
+                            "parameters": [
+                                [
+                                    255,
+                                    255,
+                                    255,
+                                    170
+                                ],
+                                20,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 230,
+                            "indent": 0,
+                            "parameters": [
+                                60
+                            ]
+                        },
+                        {
+                            "code": 250,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "name": "射精音2",
+                                    "volume": 50,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        },
+                        {
+                            "code": 224,
+                            "indent": 0,
+                            "parameters": [
+                                [
+                                    255,
+                                    255,
+                                    255,
+                                    170
+                                ],
+                                20,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 230,
+                            "indent": 0,
+                            "parameters": [
+                                30
+                            ]
+                        },
+                        {
+                            "code": 250,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "name": "射精音2",
+                                    "volume": 50,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        },
+                        {
+                            "code": 224,
+                            "indent": 0,
+                            "parameters": [
+                                [
+                                    255,
+                                    255,
+                                    255,
+                                    170
+                                ],
+                                20,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 230,
+                            "indent": 0,
+                            "parameters": [
+                                30
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I think I heard a gulp sound."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "No, I definitely heard it."
+                            ]
+                        },
+                        {
+                            "code": 357,
+                            "indent": 0,
+                            "parameters": [
+                                "MoviePicture",
+                                "PREPARE",
+                                "ピクチャ動画準備",
+                                {
+                                    "fileName": "kanae_001 e (loop)",
+                                    "loop": "true",
+                                    "smooth": "false",
+                                    "volume": "100",
+                                    "reload": "false",
+                                    "autoplay": "true",
+                                    "finishSwitch": "0"
+                                }
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "ファイル名 = kanae_001 e (loop)"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "ループ = true"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "なめらか表示 = false"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "音量 = 100"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "再読み込み = false"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "自動再生 = true"
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "再生終了スイッチ = 0"
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 0,
+                            "parameters": [
+                                7,
+                                "",
+                                1,
+                                0,
+                                408,
+                                260,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 245,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "name": "",
+                                    "volume": 90,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "With a cough, Kanae spat out what belonged to me from their\nmouth."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 357,
+                            "indent": 0,
+                            "parameters": [
+                                "MoviePicture",
+                                "PLAY",
+                                "再生",
+                                {
+                                    "pictureId": "7"
+                                }
+                            ]
+                        },
+                        {
+                            "code": 657,
+                            "indent": 0,
+                            "parameters": [
+                                "ピクチャ番号 = 7"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "The liquid mixture of semen and saliva dripping from their\nmouth was very erotic."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 235,
+                            "indent": 0,
+                            "parameters": [
+                                6
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Kanae"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Geez! If you were about to cum, you should have told me\nfirst! Ugh... my throat feels sticky..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Hikaru"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "S-Sorry... Are you okay? Do you need to vomit?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Kanae"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "It's fine! I already drank it all!... Because it's yours,\nHikaru."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 235,
+                            "indent": 0,
+                            "parameters": [
+                                7
+                            ]
+                        },
+                        {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [
+                                -1,
+                                4,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [
+                                3,
+                                1,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Hikaru"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "K-Kanae!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Kanae"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Kyaa, kyaa!?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Became intimate with Kanae!"
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                218,
+                                218,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                18,
+                                18,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                32,
+                                32,
+                                1,
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 201,
+                            "indent": 0,
+                            "parameters": [
+                                0,
+                                69,
+                                6,
+                                6,
+                                2,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 3,
+                    "walkAnime": true
+                }
+            ],
+            "x": 7,
+            "y": 4
+        }
+    ]
+}
