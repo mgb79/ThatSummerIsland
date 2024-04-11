@@ -6753,7 +6753,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "이게 정말 사랑인지, 아니면 그저 흔들다리 효과인지는 모른다."
+                                "I don't know if it's really love, or if it's just the\nsuspension bridge effect."
                             ]
                         },
                         {
@@ -34094,203 +34094,6 @@
                             ]
                         },
                         {
-                            "code": 250,
-                            "indent": 1,
-                            "parameters": [
-                                {
-                                    "name": "Open1",
-                                    "volume": 90,
-                                    "pitch": 100,
-                                    "pan": 0
-                                }
-                            ]
-                        },
-                        {
-                            "code": 222,
-                            "indent": 1,
-                            "parameters": []
-                        },
-                        {
-                            "code": 213,
-                            "indent": 1,
-                            "parameters": [
-                                -1,
-                                10,
-                                false
-                            ]
-                        },
-                        {
-                            "code": 205,
-                            "indent": 1,
-                            "parameters": [
-                                1,
-                                {
-                                    "list": [
-                                        {
-                                            "code": 2,
-                                            "indent": null
-                                        },
-                                        {
-                                            "code": 2,
-                                            "indent": null
-                                        },
-                                        {
-                                            "code": 2,
-                                            "indent": null
-                                        },
-                                        {
-                                            "code": 2,
-                                            "indent": null
-                                        },
-                                        {
-                                            "code": 4,
-                                            "indent": null
-                                        },
-                                        {
-                                            "code": 4,
-                                            "indent": null
-                                        },
-                                        {
-                                            "code": 4,
-                                            "indent": null
-                                        },
-                                        {
-                                            "code": 4,
-                                            "indent": null
-                                        },
-                                        {
-                                            "code": 4,
-                                            "indent": null
-                                        },
-                                        {
-                                            "code": 3,
-                                            "indent": null
-                                        },
-                                        {
-                                            "code": 3,
-                                            "indent": null
-                                        },
-                                        {
-                                            "code": 0
-                                        }
-                                    ],
-                                    "repeat": false,
-                                    "skippable": false,
-                                    "wait": true
-                                }
-                            ]
-                        },
-                        {
-                            "code": 505,
-                            "indent": 1,
-                            "parameters": [
-                                {
-                                    "code": 2,
-                                    "indent": null
-                                }
-                            ]
-                        },
-                        {
-                            "code": 505,
-                            "indent": 1,
-                            "parameters": [
-                                {
-                                    "code": 2,
-                                    "indent": null
-                                }
-                            ]
-                        },
-                        {
-                            "code": 505,
-                            "indent": 1,
-                            "parameters": [
-                                {
-                                    "code": 2,
-                                    "indent": null
-                                }
-                            ]
-                        },
-                        {
-                            "code": 505,
-                            "indent": 1,
-                            "parameters": [
-                                {
-                                    "code": 2,
-                                    "indent": null
-                                }
-                            ]
-                        },
-                        {
-                            "code": 505,
-                            "indent": 1,
-                            "parameters": [
-                                {
-                                    "code": 4,
-                                    "indent": null
-                                }
-                            ]
-                        },
-                        {
-                            "code": 505,
-                            "indent": 1,
-                            "parameters": [
-                                {
-                                    "code": 4,
-                                    "indent": null
-                                }
-                            ]
-                        },
-                        {
-                            "code": 505,
-                            "indent": 1,
-                            "parameters": [
-                                {
-                                    "code": 4,
-                                    "indent": null
-                                }
-                            ]
-                        },
-                        {
-                            "code": 505,
-                            "indent": 1,
-                            "parameters": [
-                                {
-                                    "code": 4,
-                                    "indent": null
-                                }
-                            ]
-                        },
-                        {
-                            "code": 505,
-                            "indent": 1,
-                            "parameters": [
-                                {
-                                    "code": 4,
-                                    "indent": null
-                                }
-                            ]
-                        },
-                        {
-                            "code": 505,
-                            "indent": 1,
-                            "parameters": [
-                                {
-                                    "code": 3,
-                                    "indent": null
-                                }
-                            ]
-                        },
-                        {
-                            "code": 505,
-                            "indent": 1,
-                            "parameters": [
-                                {
-                                    "code": 3,
-                                    "indent": null
-                                }
-                            ]
-                        },
-                        {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
@@ -36917,6 +36720,20 @@
                             ]
                         },
                         {
+                            "code": 223,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ],
+                                1,
+                                false
+                            ]
+                        },
+                        {
                             "code": 0,
                             "indent": 1,
                             "parameters": []
@@ -39507,18 +39324,6 @@
                                 ],
                                 60,
                                 false
-                            ]
-                        },
-                        {
-                            "code": 322,
-                            "indent": 1,
-                            "parameters": [
-                                1,
-                                "sleep",
-                                0,
-                                "",
-                                0,
-                                ""
                             ]
                         },
                         {
@@ -43109,7 +42914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "남자 캐릭터 스탠딩 CG를 보시겠습니까?"
+                                "Would you like to see the standing CG for the male characters?"
                             ]
                         },
                         {
@@ -43117,8 +42922,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "예",
-                                    "아니요"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 -1,
@@ -43131,7 +42936,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "예"
+                                "Yes"
                             ]
                         },
                         {
@@ -43139,11 +42944,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "히카루",
-                                    "사루야마",
-                                    "타이요우",
-                                    "켄타",
-                                    "보지 않는다"
+                                    "Hikaru",
+                                    "Saruyama",
+                                    "Taiyou",
+                                    "Kenta",
+                                    "Don't look"
                                 ],
                                 4,
                                 -1,
@@ -43156,34 +42961,12 @@
                             "indent": 1,
                             "parameters": [
                                 0,
-                                "히카루"
-                            ]
-                        },
-                        {
-                            "code": 102,
-                            "indent": 2,
-                            "parameters": [
-                                [
-                                    "일반 스탠딩",
-                                    "수영복"
-                                ],
-                                1,
-                                0,
-                                2,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 402,
-                            "indent": 2,
-                            "parameters": [
-                                0,
-                                "일반 스탠딩"
+                                "Hikaru"
                             ]
                         },
                         {
                             "code": 231,
-                            "indent": 3,
+                            "indent": 2,
                             "parameters": [
                                 1,
                                 "hikaru",
@@ -43198,27 +42981,11 @@
                             ]
                         },
                         {
-                            "code": 0,
-                            "indent": 3,
-                            "parameters": []
-                        },
-                        {
-                            "code": 402,
+                            "code": 230,
                             "indent": 2,
                             "parameters": [
-                                1,
-                                "수영복"
+                                120
                             ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 3,
-                            "parameters": []
-                        },
-                        {
-                            "code": 404,
-                            "indent": 2,
-                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -43230,7 +42997,7 @@
                             "indent": 1,
                             "parameters": [
                                 1,
-                                "사루야마"
+                                "Saruyama"
                             ]
                         },
                         {
@@ -43238,9 +43005,9 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "일반 스탠딩",
-                                    "수영복",
-                                    "그만둔다"
+                                    "Casual clothes",
+                                    "Swimsuit",
+                                    "Stop"
                                 ],
                                 2,
                                 -1,
@@ -43253,7 +43020,7 @@
                             "indent": 2,
                             "parameters": [
                                 0,
-                                "일반 스탠딩"
+                                "Casual clothes"
                             ]
                         },
                         {
@@ -43427,7 +43194,7 @@
                             "indent": 2,
                             "parameters": [
                                 1,
-                                "수영복"
+                                "Swimsuit"
                             ]
                         },
                         {
@@ -43601,7 +43368,7 @@
                             "indent": 2,
                             "parameters": [
                                 2,
-                                "그만둔다"
+                                "Stop"
                             ]
                         },
                         {
@@ -43624,7 +43391,7 @@
                             "indent": 1,
                             "parameters": [
                                 2,
-                                "타이요우"
+                                "Taiyou"
                             ]
                         },
                         {
@@ -43632,9 +43399,9 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "일반 스탠딩",
-                                    "수영복",
-                                    "그만둔다"
+                                    "Casual clothes",
+                                    "Swimsuit",
+                                    "Stop"
                                 ],
                                 2,
                                 -1,
@@ -43647,7 +43414,7 @@
                             "indent": 2,
                             "parameters": [
                                 0,
-                                "일반 스탠딩"
+                                "Casual clothes"
                             ]
                         },
                         {
@@ -43821,7 +43588,7 @@
                             "indent": 2,
                             "parameters": [
                                 1,
-                                "수영복"
+                                "Swimsuit"
                             ]
                         },
                         {
@@ -43995,7 +43762,7 @@
                             "indent": 2,
                             "parameters": [
                                 2,
-                                "그만둔다"
+                                "Stop"
                             ]
                         },
                         {
@@ -44018,7 +43785,7 @@
                             "indent": 1,
                             "parameters": [
                                 3,
-                                "켄타"
+                                "Kenta"
                             ]
                         },
                         {
@@ -44026,9 +43793,9 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "일반 스탠딩",
-                                    "수영복",
-                                    "그만둔다"
+                                    "Casual clothes",
+                                    "Swimsuit",
+                                    "Stop"
                                 ],
                                 2,
                                 -1,
@@ -44041,7 +43808,7 @@
                             "indent": 2,
                             "parameters": [
                                 0,
-                                "일반 스탠딩"
+                                "Casual clothes"
                             ]
                         },
                         {
@@ -44192,7 +43959,7 @@
                             "indent": 2,
                             "parameters": [
                                 1,
-                                "수영복"
+                                "Swimsuit"
                             ]
                         },
                         {
@@ -44343,7 +44110,7 @@
                             "indent": 2,
                             "parameters": [
                                 2,
-                                "그만둔다"
+                                "Stop"
                             ]
                         },
                         {
@@ -44366,7 +44133,7 @@
                             "indent": 1,
                             "parameters": [
                                 4,
-                                "보지 않는다"
+                                "Don't look"
                             ]
                         },
                         {
@@ -44389,7 +44156,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "아니요"
+                                "No"
                             ]
                         },
                         {

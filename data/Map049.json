@@ -6746,7 +6746,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "이게 정말 사랑인지, 아니면 그저 흔들다리 효과인지는 모른다."
+                                "I don't know if it's really love, or if it's just the\nsuspension bridge effect."
                             ]
                         },
                         {
@@ -17495,7 +17495,467 @@
             "x": 12,
             "y": 4
         },
-        null,
+        {
+            "id": 12,
+            "name": "EV012",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "ek_saru",
+                        "direction": 2,
+                        "pattern": 1,
+                        "characterIndex": 0
+                    },
+                    "list": [
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                18,
+                                18,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                "manyon (1)",
+                                0,
+                                0,
+                                250,
+                                100,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "本作をプレイしていただきありがとうございます！"
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                "manyon (3)",
+                                0,
+                                0,
+                                250,
+                                100,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Hイベントを全部開放しますか？"
+                            ]
+                        },
+                        {
+                            "code": 102,
+                            "indent": 0,
+                            "parameters": [
+                                [
+                                    "はい",
+                                    "いいえ"
+                                ],
+                                1,
+                                -1,
+                                2,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 402,
+                            "indent": 0,
+                            "parameters": [
+                                0,
+                                "はい"
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 1,
+                            "parameters": [
+                                222,
+                                222,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 1,
+                            "parameters": [
+                                223,
+                                223,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 1,
+                            "parameters": [
+                                224,
+                                224,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 1,
+                            "parameters": [
+                                225,
+                                225,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 1,
+                            "parameters": [
+                                227,
+                                227,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 1,
+                            "parameters": [
+                                228,
+                                228,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 1,
+                            "parameters": [
+                                229,
+                                229,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 1,
+                            "parameters": [
+                                230,
+                                230,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 1,
+                            "parameters": [
+                                232,
+                                232,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 1,
+                            "parameters": [
+                                233,
+                                233,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 1,
+                            "parameters": [
+                                234,
+                                234,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 1,
+                            "parameters": [
+                                235,
+                                235,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 1,
+                            "parameters": [
+                                239,
+                                239,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 1,
+                            "parameters": [
+                                240,
+                                240,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "開放しました！"
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 1,
+                            "parameters": [
+                                221,
+                                221,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 402,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                "いいえ"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 404,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 235,
+                            "indent": 0,
+                            "parameters": [
+                                1
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                18,
+                                18,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                },
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 221,
+                        "switch1Valid": true,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "ek_saru",
+                        "direction": 2,
+                        "pattern": 1,
+                        "characterIndex": 0
+                    },
+                    "list": [
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                18,
+                                18,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                "manyon (3)",
+                                0,
+                                0,
+                                250,
+                                100,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "本作をプレイしていただきありがとうございます！"
+                            ]
+                        },
+                        {
+                            "code": 235,
+                            "indent": 0,
+                            "parameters": [
+                                1
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                18,
+                                18,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 8,
+            "y": 3
+        },
         {
             "id": 13,
             "name": "ツグミ4",
@@ -31386,203 +31846,6 @@
                             ]
                         },
                         {
-                            "code": 250,
-                            "indent": 1,
-                            "parameters": [
-                                {
-                                    "name": "Open1",
-                                    "volume": 90,
-                                    "pitch": 100,
-                                    "pan": 0
-                                }
-                            ]
-                        },
-                        {
-                            "code": 222,
-                            "indent": 1,
-                            "parameters": []
-                        },
-                        {
-                            "code": 213,
-                            "indent": 1,
-                            "parameters": [
-                                -1,
-                                10,
-                                false
-                            ]
-                        },
-                        {
-                            "code": 205,
-                            "indent": 1,
-                            "parameters": [
-                                1,
-                                {
-                                    "list": [
-                                        {
-                                            "code": 2,
-                                            "indent": null
-                                        },
-                                        {
-                                            "code": 2,
-                                            "indent": null
-                                        },
-                                        {
-                                            "code": 2,
-                                            "indent": null
-                                        },
-                                        {
-                                            "code": 2,
-                                            "indent": null
-                                        },
-                                        {
-                                            "code": 4,
-                                            "indent": null
-                                        },
-                                        {
-                                            "code": 4,
-                                            "indent": null
-                                        },
-                                        {
-                                            "code": 4,
-                                            "indent": null
-                                        },
-                                        {
-                                            "code": 4,
-                                            "indent": null
-                                        },
-                                        {
-                                            "code": 4,
-                                            "indent": null
-                                        },
-                                        {
-                                            "code": 3,
-                                            "indent": null
-                                        },
-                                        {
-                                            "code": 3,
-                                            "indent": null
-                                        },
-                                        {
-                                            "code": 0
-                                        }
-                                    ],
-                                    "repeat": false,
-                                    "skippable": false,
-                                    "wait": true
-                                }
-                            ]
-                        },
-                        {
-                            "code": 505,
-                            "indent": 1,
-                            "parameters": [
-                                {
-                                    "code": 2,
-                                    "indent": null
-                                }
-                            ]
-                        },
-                        {
-                            "code": 505,
-                            "indent": 1,
-                            "parameters": [
-                                {
-                                    "code": 2,
-                                    "indent": null
-                                }
-                            ]
-                        },
-                        {
-                            "code": 505,
-                            "indent": 1,
-                            "parameters": [
-                                {
-                                    "code": 2,
-                                    "indent": null
-                                }
-                            ]
-                        },
-                        {
-                            "code": 505,
-                            "indent": 1,
-                            "parameters": [
-                                {
-                                    "code": 2,
-                                    "indent": null
-                                }
-                            ]
-                        },
-                        {
-                            "code": 505,
-                            "indent": 1,
-                            "parameters": [
-                                {
-                                    "code": 4,
-                                    "indent": null
-                                }
-                            ]
-                        },
-                        {
-                            "code": 505,
-                            "indent": 1,
-                            "parameters": [
-                                {
-                                    "code": 4,
-                                    "indent": null
-                                }
-                            ]
-                        },
-                        {
-                            "code": 505,
-                            "indent": 1,
-                            "parameters": [
-                                {
-                                    "code": 4,
-                                    "indent": null
-                                }
-                            ]
-                        },
-                        {
-                            "code": 505,
-                            "indent": 1,
-                            "parameters": [
-                                {
-                                    "code": 4,
-                                    "indent": null
-                                }
-                            ]
-                        },
-                        {
-                            "code": 505,
-                            "indent": 1,
-                            "parameters": [
-                                {
-                                    "code": 4,
-                                    "indent": null
-                                }
-                            ]
-                        },
-                        {
-                            "code": 505,
-                            "indent": 1,
-                            "parameters": [
-                                {
-                                    "code": 3,
-                                    "indent": null
-                                }
-                            ]
-                        },
-                        {
-                            "code": 505,
-                            "indent": 1,
-                            "parameters": [
-                                {
-                                    "code": 3,
-                                    "indent": null
-                                }
-                            ]
-                        },
-                        {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
@@ -34206,6 +34469,20 @@
                             "indent": 1,
                             "parameters": [
                                 "Let's go do the laundry."
+                            ]
+                        },
+                        {
+                            "code": 223,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ],
+                                1,
+                                false
                             ]
                         },
                         {
@@ -38073,7 +38350,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Len...ka?"
+                                "Ren...ka?"
                             ]
                         },
                         {
@@ -40046,18 +40323,6 @@
                                 ],
                                 60,
                                 false
-                            ]
-                        },
-                        {
-                            "code": 322,
-                            "indent": 1,
-                            "parameters": [
-                                1,
-                                "sleep",
-                                0,
-                                "",
-                                0,
-                                ""
                             ]
                         },
                         {
@@ -43846,7 +44111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "남자 캐릭터 스탠딩 CG를 보시겠습니까?"
+                                "Would you like to see the standing CG for the male characters?"
                             ]
                         },
                         {
@@ -43854,8 +44119,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "예",
-                                    "아니요"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 -1,
@@ -43868,7 +44133,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "예"
+                                "Yes"
                             ]
                         },
                         {
@@ -43876,11 +44141,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "히카루",
-                                    "사루야마",
-                                    "타이요우",
-                                    "켄타",
-                                    "보지 않는다"
+                                    "Hikaru",
+                                    "Saruyama",
+                                    "Taiyou",
+                                    "Kenta",
+                                    "Don't look"
                                 ],
                                 4,
                                 -1,
@@ -43893,34 +44158,12 @@
                             "indent": 1,
                             "parameters": [
                                 0,
-                                "히카루"
-                            ]
-                        },
-                        {
-                            "code": 102,
-                            "indent": 2,
-                            "parameters": [
-                                [
-                                    "일반 스탠딩",
-                                    "수영복"
-                                ],
-                                1,
-                                0,
-                                2,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 402,
-                            "indent": 2,
-                            "parameters": [
-                                0,
-                                "일반 스탠딩"
+                                "Hikaru"
                             ]
                         },
                         {
                             "code": 231,
-                            "indent": 3,
+                            "indent": 2,
                             "parameters": [
                                 1,
                                 "hikaru",
@@ -43935,27 +44178,11 @@
                             ]
                         },
                         {
-                            "code": 0,
-                            "indent": 3,
-                            "parameters": []
-                        },
-                        {
-                            "code": 402,
+                            "code": 230,
                             "indent": 2,
                             "parameters": [
-                                1,
-                                "수영복"
+                                120
                             ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 3,
-                            "parameters": []
-                        },
-                        {
-                            "code": 404,
-                            "indent": 2,
-                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -43967,7 +44194,7 @@
                             "indent": 1,
                             "parameters": [
                                 1,
-                                "사루야마"
+                                "Saruyama"
                             ]
                         },
                         {
@@ -43975,9 +44202,9 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "일반 스탠딩",
-                                    "수영복",
-                                    "그만둔다"
+                                    "Casual clothes",
+                                    "Swimsuit",
+                                    "Stop"
                                 ],
                                 2,
                                 -1,
@@ -43990,7 +44217,7 @@
                             "indent": 2,
                             "parameters": [
                                 0,
-                                "일반 스탠딩"
+                                "Casual clothes"
                             ]
                         },
                         {
@@ -44164,7 +44391,7 @@
                             "indent": 2,
                             "parameters": [
                                 1,
-                                "수영복"
+                                "Swimsuit"
                             ]
                         },
                         {
@@ -44338,7 +44565,7 @@
                             "indent": 2,
                             "parameters": [
                                 2,
-                                "그만둔다"
+                                "Stop"
                             ]
                         },
                         {
@@ -44361,7 +44588,7 @@
                             "indent": 1,
                             "parameters": [
                                 2,
-                                "타이요우"
+                                "Taiyou"
                             ]
                         },
                         {
@@ -44369,9 +44596,9 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "일반 스탠딩",
-                                    "수영복",
-                                    "그만둔다"
+                                    "Casual clothes",
+                                    "Swimsuit",
+                                    "Stop"
                                 ],
                                 2,
                                 -1,
@@ -44384,7 +44611,7 @@
                             "indent": 2,
                             "parameters": [
                                 0,
-                                "일반 스탠딩"
+                                "Casual clothes"
                             ]
                         },
                         {
@@ -44558,7 +44785,7 @@
                             "indent": 2,
                             "parameters": [
                                 1,
-                                "수영복"
+                                "Swimsuit"
                             ]
                         },
                         {
@@ -44732,7 +44959,7 @@
                             "indent": 2,
                             "parameters": [
                                 2,
-                                "그만둔다"
+                                "Stop"
                             ]
                         },
                         {
@@ -44755,7 +44982,7 @@
                             "indent": 1,
                             "parameters": [
                                 3,
-                                "켄타"
+                                "Kenta"
                             ]
                         },
                         {
@@ -44763,9 +44990,9 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "일반 스탠딩",
-                                    "수영복",
-                                    "그만둔다"
+                                    "Casual clothes",
+                                    "Swimsuit",
+                                    "Stop"
                                 ],
                                 2,
                                 -1,
@@ -44778,7 +45005,7 @@
                             "indent": 2,
                             "parameters": [
                                 0,
-                                "일반 스탠딩"
+                                "Casual clothes"
                             ]
                         },
                         {
@@ -44929,7 +45156,7 @@
                             "indent": 2,
                             "parameters": [
                                 1,
-                                "수영복"
+                                "Swimsuit"
                             ]
                         },
                         {
@@ -45080,7 +45307,7 @@
                             "indent": 2,
                             "parameters": [
                                 2,
-                                "그만둔다"
+                                "Stop"
                             ]
                         },
                         {
@@ -45103,7 +45330,7 @@
                             "indent": 1,
                             "parameters": [
                                 4,
-                                "보지 않는다"
+                                "Don't look"
                             ]
                         },
                         {
@@ -45126,7 +45353,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "아니요"
+                                "No"
                             ]
                         },
                         {
